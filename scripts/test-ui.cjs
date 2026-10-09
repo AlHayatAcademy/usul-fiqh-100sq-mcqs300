@@ -1,10 +1,10 @@
 const assert=require('node:assert/strict');const fs=require('node:fs');const path=require('node:path');const {JSDOM,VirtualConsole}=require('jsdom');
-const root=path.resolve(__dirname,'..');const html=fs.readFileSync(path.join(root,'index.html'),'utf8');const storageKey='usul-study-v2';
-function boot(hash='home',state){
+const root=path.resolve(__dirname,'..');const html=fs.readFileSync(path.join(root,'index.html'),'utf8');const storageKey='usul-study-v3';
+function boot(hash='home',state,targetKey=storageKey){
  const errors=[];const vc=new VirtualConsole();vc.on('jsdomError',e=>errors.push(e.message));
  const dom=new JSDOM(html,{url:'https://example.test/repository/#'+hash,runScripts:'outside-only',pretendToBeVisual:true,virtualConsole:vc});const w=dom.window;
  w.scrollTo=()=>{};w.HTMLElement.prototype.scrollIntoView=()=>{};w.HTMLDialogElement.prototype.showModal=function(){this.open=true;};w.HTMLDialogElement.prototype.close=function(){this.open=false;};
- if(state!==undefined)w.localStorage.setItem(storageKey,typeof state==='string'?state:JSON.stringify(state));
+ if(state!==undefined)w.localStorage.setItem(targetKey,typeof state==='string'?state:JSON.stringify(state));
  for(const f of ['data.js','mcqs.js','quiz-core.js','app.js'])w.eval(fs.readFileSync(path.join(root,f),'utf8'));
  return {dom,w,doc:w.document,errors};
 }
@@ -13,13 +13,14 @@ async function navigate(b,hash){b.w.location.hash=hash;await next();}
 function click(b,sel){const e=b.doc.querySelector(sel);assert.ok(e,'Missing '+sel);e.click();}
 function state(b){return JSON.parse(b.w.localStorage.getItem(storageKey));}
 (async()=>{
+ const migrated=boot('home',{completed:[60],bookmarks:[58],lastRead:60,history:[{attemptId:'legacy',total:50,correct:50,finishedAt:1}]},'usul-study-v2');assert.deepEqual(state(migrated).completed,[58]);assert.deepEqual(state(migrated).bookmarks,[54]);assert.equal(state(migrated).lastRead,58);assert.deepEqual(state(migrated).history,[]);migrated.dom.window.close();
  const b=boot();assert.match(b.doc.querySelector('h1').textContent,/اصولِ فقہ/);
- await navigate(b,'read/q60');assert.equal(b.doc.querySelectorAll('.qa').length,10);assert.equal(b.doc.querySelector('#answer60').hidden,false);assert.ok(b.doc.querySelectorAll('#answer60 [lang="ar"]').length>=4);assert.equal(b.doc.querySelector('#answer60').textContent.includes('§QUOTE§'),false);
- click(b,'[data-complete="60"]');click(b,'[data-bookmark="60"]');assert.deepEqual(state(b).completed,[60]);assert.deepEqual(state(b).bookmarks,[60]);
+ await navigate(b,'read/q58');assert.equal(b.doc.querySelectorAll('.qa').length,10);assert.equal(b.doc.querySelector('#answer58').hidden,false);assert.equal(b.doc.querySelectorAll('#answer58 .definition-card').length,4);assert.ok(b.doc.querySelector('#answer58 .definition-translation'));assert.ok(b.doc.querySelector('#answer58 .reference-note a')); assert.ok(b.doc.querySelectorAll('#answer58 [lang="ar"]').length>=4);assert.equal(b.doc.querySelector('#answer58').textContent.includes('§QUOTE§'),false);
+ click(b,'[data-complete="58"]');click(b,'[data-bookmark="58"]');assert.deepEqual(state(b).completed,[58]);assert.deepEqual(state(b).bookmarks,[58]);
  const search=b.doc.querySelector('#studySearch');search.value='ناموجودعبارت';search.dispatchEvent(new b.w.Event('input',{bubbles:true}));assert.ok(b.doc.querySelector('.empty-state'));click(b,'[data-action="reset-filters"]');assert.equal(b.doc.querySelectorAll('.qa').length,10);
  click(b,'[data-reading-mode="flash"]');assert.equal(b.doc.querySelector('#flashAnswer').hidden,true);click(b,'[data-action="reveal-flash"]');assert.equal(b.doc.querySelector('#flashAnswer').hidden,false);click(b,'[data-flash="1"]');assert.equal(b.doc.querySelector('#flashAnswer').hidden,true);
- await navigate(b,'practice');assert.equal(b.doc.querySelectorAll('[data-start-set]').length,6);click(b,'[data-start-set="1"]');await next();assert.equal(b.doc.querySelectorAll('.option').length,4);
- let s=state(b).session,q=b.w.USUL_MCQS.questions.find(q=>q.id===s.entries[0].id);click(b,`[data-option="${q.correct}"]`);assert.equal(b.doc.querySelector('.feedback'),null);click(b,'[data-action="check-answer"]');assert.ok(b.doc.querySelector('.feedback'));assert.equal(b.doc.querySelectorAll('.option:disabled').length,4);assert.equal(state(b).session.checked.length,1);
+ await navigate(b,'practice');assert.equal(b.doc.querySelectorAll('[data-start-set]').length,6);assert.equal(b.doc.querySelector('#shuffleQuestions').checked,false);assert.ok(b.doc.querySelector('.set-card').textContent.includes('بنیادی تصورات')); click(b,'[data-start-set="1"]');await next();assert.equal(b.doc.querySelectorAll('.option').length,4);
+ let s=state(b).session,q=b.w.USUL_MCQS.questions.find(q=>q.id===s.entries[0].id);click(b,`[data-option="${q.correct}"]`);assert.equal(b.doc.querySelector('.feedback'),null);click(b,'[data-action="check-answer"]');assert.ok(b.doc.querySelector('.feedback'));assert.ok(b.doc.querySelector('.feedback .reference-note'));assert.equal(b.doc.querySelector('.feedback a[href^="#read/q"]').getAttribute('href'),'#read/q'+q.studyQuestion);assert.equal(b.doc.querySelectorAll('.option:disabled').length,4);assert.equal(state(b).session.checked.length,1);
  click(b,'[data-move="1"]');click(b,'[data-action="flag-question"]');assert.equal(state(b).session.flags.length,1);await navigate(b,'practice');click(b,'[data-action="resume"]');await next();assert.equal(state(b).session.position,1);
  await navigate(b,'practice');let mode=b.doc.querySelector('#practiceMode');mode.value='exam';mode.dispatchEvent(new b.w.Event('change'));click(b,'[data-start-set="2"]');assert.equal(b.doc.querySelector('#confirmDialog').open,true);click(b,'#confirmYes');await next();
  s=state(b).session;assert.equal(s.mode,'exam');for(let i=0;i<50;i++){if(i)click(b,`[data-jump="${i}"]`);s=state(b).session;q=b.w.USUL_MCQS.questions.find(q=>q.id===s.entries[i].id);click(b,`[data-option="${q.correct}"]`);assert.equal(b.doc.querySelector('.feedback'),null);}

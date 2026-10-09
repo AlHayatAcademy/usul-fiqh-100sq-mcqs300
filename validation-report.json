@@ -1,17 +1,46 @@
 {
+  "contentVersion": "3.0",
   "studyQuestions": 120,
+  "originalAnswerArraysPreserved": 120,
+  "arabicDefinitionsAndPassages": 50,
   "mcqs": 300,
+  "newMCQs": 153,
+  "reviewedPreviousMCQs": 147,
+  "previousQuestionsWithRewrittenDistractors": 82,
   "sets": 6,
   "perSet": 50,
-  "distinctOptionsPerQuestion": 4,
-  "units": 12,
-  "answerKeysPerSet": "12/12/13/13",
+  "questionSequence": "thematic-progressive; no question shuffling by default",
+  "unitCounts": [
+    15,
+    35,
+    50,
+    30,
+    20,
+    50,
+    30,
+    20,
+    25,
+    10,
+    9,
+    6
+  ],
+  "answerKeys": [
+    75,
+    75,
+    75,
+    75
+  ],
   "tests": [
-    "quiz core passed",
-    "DOM interactions passed",
-    "local asset references passed",
-    "120 revised answers match source exactly"
+    "core scoring, answer-key correctness, session validation",
+    "unique questions, four unique options, 6 disjoint sets of 50",
+    "50 definition cards, source records, related study-unit agreement",
+    "logical unit/study sequence, JSON/JS parity",
+    "SHA-256 equality of all original answer arrays",
+    "DOM: reading, search, bookmarks, flashcards, practice, exam, scoring, resume, results, retry, keyboard, expiry, storage failures",
+    "DOM: old reading-progress migration, default sequence, source links, definition card markup",
+    "local asset references"
   ],
   "visualBrowserQA": "not performed",
+  "independentSpecialistScholarlyReview": "not performed",
   "date": "2026-10-09"
 }
