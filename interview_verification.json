@@ -1,0 +1,34 @@
+{
+  "interview_question_count": 120,
+  "coverage_by_unit": {
+    "1": 12,
+    "2": 8,
+    "3": 12,
+    "4": 10,
+    "5": 10,
+    "6": 10,
+    "7": 12,
+    "8": 8,
+    "9": 10,
+    "10": 10,
+    "11": 8,
+    "12": 10
+  },
+  "source_files_reviewed": [
+    "fiqh.json",
+    "Fifty_Questions_Aqalliyyat_FamilyLaw_UR(1).docx",
+    "فقہ_اور_اصول_فقہ_انٹرویو_کے_300_اہم_ترین_سوالات.docx",
+    "فقہ_اور_اصول_فقہ_پاکستانی_جامعات_کے_انٹرویو_کے_100_جامع_سوالات.docx"
+  ],
+  "selection_focus": [
+    "university selection boards",
+    "core usul al-fiqh",
+    "major classical discussions",
+    "comparative madhhab methodology",
+    "ijtihad and ifta",
+    "research methodology",
+    "contemporary applications"
+  ],
+  "minimum_answer_characters": 721,
+  "average_answer_characters": 1463
+}

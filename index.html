@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="ur" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="الحیات مرکز علوم اسلامیہ — اصول فقہ: بارہ تعلیمی یونٹس، چونسٹھ ابواب اور جامع سوالات و جوابات">
+<meta name="theme-color" content="#123a32">
+<title>الحیات مرکز علوم اسلامیہ | اصول فقہ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <button id="menuBtn" class="icon-btn mobile-menu" aria-label="فہرست کھولیں">☰</button>
+    <button class="brand" id="brandHome" aria-label="مرکزی صفحہ">
+      <span class="brand-seal"><span>الحیات</span></span>
+      <span class="brand-copy"><strong>الحیات مرکز علوم اسلامیہ</strong><small>اصول فقہ</small></span>
+    </button>
+    <nav class="top-nav" aria-label="مرکزی نیویگیشن">
+      <button class="top-link active" data-home>مرکزی صفحہ</button>
+      <button class="top-link" id="unitsTopBtn">تعلیمی یونٹس</button>
+      <button class="top-link interview-link" id="interviewTopBtn">اہم سوالات</button>
+      <button class="top-link" id="continueTopBtn">مطالعہ جاری رکھیں</button>
+    </nav>
+    <div class="top-actions">
+      <button id="searchTopBtn" class="icon-btn" aria-label="تلاش" title="تلاش">⌕</button>
+      <button id="themeBtn" class="icon-btn" aria-label="رنگ تبدیل کریں" title="ڈارک موڈ">◐</button>
+    </div>
+  </div>
+</header>
+
+<div class="app-shell">
+  <aside id="sidebar" class="sidebar" aria-label="نصاب کی فہرست">
+    <div class="sidebar-brand">
+      <span class="sidebar-label">جامع نصاب</span>
+      <strong>اصول فقہ</strong>
+      <p>بارہ یونٹس • چونسٹھ ابواب</p>
+    </div>
+    <div class="search-wrap">
+      <span class="search-icon">⌕</span>
+      <input id="searchInput" type="search" placeholder="باب، سوال یا جواب تلاش کریں…" autocomplete="off" aria-label="ویب سائٹ میں تلاش">
+    </div>
+    <div class="side-stats"><span><b id="chapterCount">64</b> ابواب</span><span><b id="questionCount">—</b> سوالات</span></div>
+    <button id="interviewSideBtn" class="interview-side-btn"><span>★</span><strong>اہم سوالات</strong><small>انٹرویو کے لیے منتخب 120 سوالات</small></button>
+    <nav id="unitNav"></nav>
+  </aside>
+
+  <main class="main">
+    <section id="homeView" class="view active">
+      <section class="hero">
+        <div class="hero-pattern" aria-hidden="true"></div>
+        <div class="hero-content">
+          <div class="institution-pill">الحیات مرکز علوم اسلامیہ</div>
+          <h1><span>اصولِ فقہ</span><br>فہمِ شریعت کی منظم علمی بنیاد</h1>
+          <p>بنیادی اصطلاحات اور مصادرِ شریعت سے لے کر اصولی استدلال، مقاصد، اجتہاد اور معاصر تطبیقات تک ایک مربوط، مطالعہ دوست اور جامع تعلیمی نصاب۔</p>
+          <div class="hero-actions">
+            <button id="browseBtn" class="btn btn-emerald">بارہ یونٹس دیکھیں <span>←</span></button>
+            <button id="continueBtn" class="btn btn-gold">مطالعہ جاری رکھیں</button>
+          </div>
+          <div class="hero-mini-stats"><span><b>12</b> یونٹس</span><span><b>64</b> ابواب</span><span><b id="heroQCount">—</b> سوالات</span></div>
+        </div>
+        <div class="library-showcase" aria-label="اصول فقہ کی منتخب بنیادی کتب">
+          <div class="library-title"><span>منتخب بنیادی مراجع</span><small>اصول فقہ کی کلاسیکی علمی روایت</small></div>
+          <div class="book-shelf">
+            <div class="book b1"><b>الرسالة</b><small>الإمام الشافعي</small></div>
+            <div class="book b2"><b>أصول السرخسي</b><small>شمس الأئمة السرخسي</small></div>
+            <div class="book b3"><b>المستصفى من علم الأصول</b><small>الإمام الغزالي</small></div>
+            <div class="book b4"><b>الإحكام في أصول الأحكام</b><small>سيف الدين الآمدي</small></div>
+            <div class="book b5"><b>كنز الوصول إلى معرفة الأصول</b><small>فخر الإسلام البزدوي</small></div>
+            <div class="book b6"><b>الموافقات</b><small>الإمام الشاطبي</small></div>
+          </div>
+          <div class="shelf-line"></div>
+        </div>
+      </section>
+
+      <section class="stats-grid" aria-label="کورس کا خلاصہ">
+        <div class="stat-card s1"><span class="stat-icon">◆</span><strong>12</strong><span>تعلیمی یونٹس</span></div>
+        <div class="stat-card s2"><span class="stat-icon">▤</span><strong>64</strong><span>جامع ابواب</span></div>
+        <div class="stat-card s3"><span class="stat-icon">؟</span><strong id="homeQCount">—</strong><span>سوالات و جوابات</span></div>
+        <div class="stat-card s4"><span class="stat-icon">✓</span><strong id="readCount">0</strong><span>مطالعہ مکمل</span></div>
+      </section>
+
+      <section id="unitsSection" class="units-section">
+        <div class="section-head centered">
+          <span class="section-kicker">مرحلہ وار نصاب</span>
+          <h2>بارہ تعلیمی یونٹس</h2>
+          <p>ہر یونٹ ایک بڑے اصولی موضوع کو منظم انداز میں سمیٹتا ہے۔ یونٹ کھولیں، متعلقہ ابواب دیکھیں اور مطلوبہ مقام سے مطالعہ شروع کریں۔</p>
+        </div>
+        <div id="unitCards" class="unit-grid"></div>
+      </section>
+
+
+      <section class="interview-promo">
+        <div class="interview-promo-icon">★</div>
+        <div class="interview-promo-copy"><span class="section-kicker">خصوصی یونٹ</span><h2>اہم سوالات — انٹرویو تیاری</h2><p>بارہ یونٹس اور جامع یونیورسٹی انٹرویو مباحث سے منتخب 120 بنیادی، تقابلی، تنقیدی اور تطبیقی سوالات؛ سوالات زبانی انٹرویو کے فطری انداز میں اور جوابات علمی معیار کے ساتھ۔</p></div>
+        <button id="openInterviewBtn" class="btn btn-gold">120 اہم سوالات دیکھیں</button>
+      </section>
+      <section class="learning-strip">
+        <div class="learning-copy">
+          <span class="section-kicker">سیکھنے کی ترتیب</span>
+          <h2>تعریف سے تطبیق تک ایک مربوط علمی سفر</h2>
+          <div class="learning-steps"><span>تعریف</span><i>←</i><span>تفہیم</span><i>←</i><span>تقابل</span><i>←</i><span>تجزیہ</span><i>←</i><span>تطبیق</span></div>
+          <p>سوالات اور توضیحات اس انداز سے مرتب ہیں کہ طالب علم اصطلاح کو صرف یاد نہ کرے بلکہ اس کا اصولی محل، اختلاف، دلیل اور عملی اطلاق بھی سمجھ سکے۔</p>
+        </div>
+        <button id="startFirstBtn" class="btn btn-indigo">باب اول سے شروع کریں</button>
+      </section>
+
+      <footer class="site-footer">
+        <div><strong>الحیات مرکز علوم اسلامیہ</strong><span>اصول فقہ — جامع تعلیمی ویب سائٹ</span></div>
+        <div class="footer-mark">العلم • الفهم • التطبيق</div>
+      </footer>
+    </section>
+
+    <section id="chapterView" class="view">
+      <div class="breadcrumbs"><button id="backHome" class="crumb">مرکزی صفحہ</button><span>←</span><span id="crumbUnit"></span><span>←</span><strong id="crumbChapter"></strong></div>
+      <div class="chapter-head">
+        <div class="chapter-heading-row">
+          <div>
+            <div class="chapter-kicker" id="chapterUnit"></div>
+            <h1 id="chapterTitle"></h1>
+            <div class="chapter-meta"><span id="chapterNumber"></span><span id="chapterQCount"></span></div>
+          </div>
+          <button id="chapterMenuBtn" class="btn btn-sky chapter-list-btn">اسی یونٹ کے ابواب</button>
+        </div>
+        <div id="chapterUnitList" class="chapter-unit-list"></div>
+      </div>
+      <div class="chapter-tools">
+        <button id="expandAll" class="tool-btn t-green">تمام جوابات کھولیں</button>
+        <button id="collapseAll" class="tool-btn t-amber">تمام جوابات بند کریں</button>
+      </div>
+      <div id="qaList" class="qa-list"></div>
+      <div class="chapter-pager"><button id="prevChapter" class="btn btn-soft">← پچھلا باب</button><button id="nextChapter" class="btn btn-emerald">اگلا باب →</button></div>
+    </section>
+
+
+    <section id="interviewView" class="view interview-view">
+      <section class="interview-hero">
+        <div><span class="section-kicker">خصوصی انٹرویو یونٹ</span><h1>اہم سوالات</h1><p>اصولِ فقہ کے پورے نصاب، پاکستانی جامعات کے Selection Boards، فقہی تحقیق اور اہم معاصر مباحث کو سامنے رکھ کر منتخب 120 سوالات۔ ہر سوال اس انداز میں مرتب ہے کہ امیدوار دو سے چار منٹ میں منظم، مدلل اور علمی جواب دے سکے، جبکہ جواب سے مزید ضمنی سوالات بھی اخذ کیے جا سکیں۔</p></div>
+        <div class="interview-count"><strong>120</strong><span>منتخب سوالات</span></div>
+      </section>
+      <div class="interview-toolbar"><button class="interview-filter active" data-unit="0">تمام یونٹس</button><div id="interviewUnitFilters" class="interview-filter-row"></div></div>
+      <div id="interviewList" class="qa-list interview-list"></div>
+    </section>
+
+    <section id="searchView" class="view">
+      <div class="section-head search-heading"><span class="section-kicker">جامع تلاش</span><h1>تلاش کے نتائج</h1><p id="searchSummary"></p></div>
+      <div id="searchResults" class="search-results"></div>
+    </section>
+  </main>
+</div>
+<div id="overlay" class="overlay"></div>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
