@@ -1,0 +1,17 @@
+{
+  "studyQuestions": 120,
+  "mcqs": 300,
+  "sets": 6,
+  "perSet": 50,
+  "distinctOptionsPerQuestion": 4,
+  "units": 12,
+  "answerKeysPerSet": "12/12/13/13",
+  "tests": [
+    "quiz core passed",
+    "DOM interactions passed",
+    "local asset references passed",
+    "120 revised answers match source exactly"
+  ],
+  "visualBrowserQA": "not performed",
+  "date": "2026-10-09"
+}

@@ -1,41 +1,57 @@
-# الحیات مرکز علوم اسلامیہ — اصول فقہ
+# اصولِ فقہ — مطالعہ اور مشق
 
-حتمی تعلیمی ویب سائٹ: بارہ یونٹس، چونسٹھ ابواب اور مکمل سوالات و جوابات۔
+موبائل اور ڈیسک ٹاپ کے لیے اردو ویب سائٹ: **120 نظرثانی شدہ سوالات و جوابات، 300 چار اختیاری سوالات اور چھ مشقیں، ہر مشق میں 50 سوالات**۔
 
-## نمایاں خصوصیات
-- اردو کے لیے Jameel Noori Nastaleeq (ویب فونٹ + محفوظ fallback)
-- عربی اقتباسات کے لیے Amiri / Noto Naskh Arabic
-- رنگین یونٹ ٹیبز اور واضح تعلیمی نیویگیشن
-- عربی اقتباسات الگ رنگین علمی بلاکس میں
-- مکمل موبائل responsive ڈیزائن
-- تلاش، مطالعہ کی پیش رفت، باب وار نیویگیشن
-- Cloudflare Pages / GitHub Pages کے لیے براہ راست deployable static site
+## استعمال
 
-Build command درکار نہیں۔ Output directory: `.`
+`index.html` کھولیں، یا اس فولڈر میں `python3 -m http.server 8000` چلائیں اور `http://localhost:8000` کھولیں۔ ویب سائٹ کے لیے کسی build، database، account یا paid service کی ضرورت نہیں۔ اردو کا Jameel Noori Nastaleeq اور عربی کا Amiri فونٹ ساتھ شامل ہے۔
 
+- مطالعہ: تلاش، یونٹ کے لحاظ سے ترتیب، پسندیدہ سوالات، مکمل مطالعے کا نشان، جواب چھپا کر یادداشت کی مشق، متن کا حجم، تاریک منظر اور پرنٹ۔
+- مشق: جواب جانچنے کے بعد درست انتخاب اور علمی وضاحت؛ امتحان میں اختتام تک جواب پوشیدہ۔ اختیاری وقت، سوالات اور اختیارات کی ترتیب بدلنا، نشان زد سوالات اور محفوظ نشست دوبارہ جاری کرنا۔
+- نتائج: مجموعی نمبر، یونٹ وار کارکردگی، غلط اور چھوڑے گئے سوالات کی الگ مشق، سابقہ نتائج اور پیش رفت کی JSON نقل۔
 
-## Readability refinement
-- Consecutive Urdu answer fragments are rendered as coherent medium-length paragraphs for uninterrupted reading.
-- Arabic verses and quotations remain visually separate in dedicated quotation blocks.
-- Responsive typography is tuned for both desktop and mobile reading.
+ہر مشق بارہ یونٹس کا احاطہ کرتی ہے۔ ہر یونٹ سے 4 یا 5 سوالات آتے ہیں؛ چھ مشقوں میں تمام 300 سوالات ایک ایک مرتبہ شامل ہیں۔ غلط اختیارات متعلقہ اصطلاحات اور ممکنہ علمی اشتباہات سے بنائے گئے ہیں۔ درست جواب کی جگہیں ہر مشق میں متوازن ہیں۔
 
+پیش رفت اسی براؤزر میں محفوظ ہوتی ہے؛ دوسرے آلے کے ساتھ خودکار ہم آہنگی نہیں ہوتی۔
 
-## Content upgrade: Chapters 32–64
-- Existing questions retained.
-- Weaker later answers expanded with chapter-specific conceptual context, distinctions, method, practical application, and selected classical reference guidance.
-- Original strong passages preserved rather than replaced.
-- Revision targets continuity with the depth of the opening chapters while avoiding unnecessary padding.
+## GitHub Pages پر اشاعت
 
+1. ZIP نکالیں اور **اس فولڈر کے اندر کی فائلیں** اپنے GitHub repository کی root میں رکھیں، تاکہ `index.html` root پر ہو۔
+2. فائلیں commit اور push کریں۔
+3. GitHub میں Settings → Pages → Build and deployment → Deploy from a branch منتخب کریں۔
+4. Branch `main` اور folder `/ (root)` منتخب کرکے Save کریں۔ GitHub کا فراہم کردہ Pages URL کھولیں۔
 
-## اہم سوالات — Interview Preparation
-- تمام 12 یونٹس سے منتخب 120 اعلیٰ ترجیحی سوالات۔
-- سوالات کو انٹرویو/وائیوا کے قدرتی انداز کے مطابق قدرے دوبارہ مرتب کیا گیا ہے۔
-- جوابات علمی معیار اور تفصیل برقرار رکھتے ہوئے قدرے گفتگو دوست بنائے گئے ہیں۔
-- مرکزی مینو اور ہوم پیج دونوں سے براہ راست رسائی۔
+`.nojekyll` شامل ہے۔ relative links کی وجہ سے project repository کے ذیلی URL پر بھی ویب سائٹ کام کرتی ہے۔
 
+## Cloudflare Pages
 
-## Interview 120 refinement
-- پاکستانی جامعات کے Selection Board / Lecturer / Assistant Professor / Subject Specialist سیاق کو ترجیح دی گئی ہے۔
-- fiqh.json، 300 سوالات، 100 جامع یونیورسٹی سوالات، اور فقہ الاقلیات/خاندانی قانون کے فراہم کردہ مواد کا مکمل مطالعہ کر کے انتخاب تازہ کیا گیا۔
-- غیر ضروری، بہت جزوی یا باہم متکرر سوالات کو کم کیا گیا، جبکہ تعریف، مصادر، دلالات، قیاس، مقاصد، اجتہاد، اختلاف، مذاہب، قواعد، تحقیق اور معاصر تطبیق کو متوازن رکھا گیا۔
-- سوالات کو زبانی انٹرویو کے فطری انداز میں دوبارہ مرتب کیا گیا اور جوابات کو مربوط، جامع اور علمی رکھا گیا۔
+Repository جوڑیں؛ Framework preset **None**، Build command **`exit 0`** اور Build output directory **`.`** رکھیں۔ اگر فائلیں repository کے کسی اندرونی فولڈر میں ہوں تو Root directory اسی فولڈر کو مقرر کریں۔
+
+یہ پیکیج deployment کے لیے تیار ہے؛ اسے کسی اکاؤنٹ پر خودکار طور پر شائع نہیں کیا گیا۔
+
+## مواد میں تبدیلی
+
+- `data.js`: ویب سائٹ کے 120 جوابات؛ `interview.json`: 120 جوابات کی قابلِ تدوین نقل۔
+- `mcqs.js`: ویب سائٹ کے MCQs؛ `mcqs.json`: اسی مواد کی قابلِ تدوین نقل۔ `correct` صفر سے شروع ہونے والا option index ہے۔
+- JSON کی تبدیلی کے بعد JavaScript نقل دوبارہ بنائیں: `window.USUL_MCQS=` + JSON + `;`، اور data کے لیے `window.USUL_DATA=` + JSON + `;`۔ صرف JSON بدلنے سے صفحہ نہیں بدلے گا۔
+- HTML ساخت `index.html`، رنگ اور ترتیب `styles.css`، مطالعہ و امتحان کی فعالیت `app.js` اور نمبر شمار کرنے کی منطق `quiz-core.js` میں ہے۔
+
+## علمی حدود اور مآخذ
+
+یہ حنفی اصول کی بنیاد پر تعلیمی اور انٹرویو تیاری کا مواد ہے۔ مختلف مکاتب کے اختلافات جہاں ضروری ہوں واضح کیے گئے ہیں۔ عربی تعریفوں کی نسبت اور علمی توضیح میں فرق برقرار رکھا گیا ہے؛ صفحے پر «مآخذ» اور `SOURCES.md` دیکھیے۔ کسی مخصوص انٹرویو کے ہر ممکن سوال کی ضمانت نہیں دی جا سکتی۔
+
+## جانچ
+
+`npm test` بنیادی شمار، چار منفرد اختیارات، مکمل set coverage اور نتائج کی منطق جانچتا ہے۔ `npm install` کے بعد `npm run test:ui` مطالعہ، امتحان، resume، نتیجہ، keyboard اور محفوظ ڈیٹا کے حالات کی DOM جانچ کرتا ہے۔ runtime کے لیے npm ضروری نہیں۔
+
+دونوں خودکار جانچیں کامیاب ہیں۔ اصل براؤزر میں بصری rendering اور مختلف حقیقی فونز پر layout کی جانچ نہیں ہوئی؛ اس پیکیج میں responsive CSS شامل ہے۔
+
+Official deployment documentation:
+- https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+- https://developers.cloudflare.com/pages/framework-guides/deploy-anything/
+
+فونٹس کی نسبت اور اجازت: `FONT_NOTICES.md`۔
+
+## اس repository میں اپ ڈیٹ
+
+GitHub Desktop میں `usul-fiqh-100sq-mcqs300` منتخب کریں، Repository → Show in Explorer کھولیں، اور اس ZIP کے اندر کی فائلیں repository کی root میں کاپی کریں۔ سابقہ پیکیج کی `syllabus.html`، `syllabus.js` اور `syllabus.css` اگر موجود ہوں تو حذف کریں۔ Commit to main اور Push origin کریں۔ نئی repository بنانے کی ضرورت نہیں۔ repository کے نام میں 100 برقرار رہنے سے اندر موجود 120 سوالات پر کوئی اثر نہیں پڑتا۔
