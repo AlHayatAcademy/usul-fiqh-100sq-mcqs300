@@ -38,9 +38,11 @@
     "SHA-256 equality of all original answer arrays",
     "DOM: reading, search, bookmarks, flashcards, practice, exam, scoring, resume, results, retry, keyboard, expiry, storage failures",
     "DOM: old reading-progress migration, default sequence, source links, definition card markup",
-    "local asset references"
+    "local asset references",
+    "DOM: six journey links, twelve unit meters, five-question quick practice, expand/collapse answers, persistent focus reading and navigation"
   ],
   "visualBrowserQA": "not performed",
   "independentSpecialistScholarlyReview": "not performed",
-  "date": "2026-10-09"
+  "date": "2026-10-09",
+  "interfaceRevision": "colourful-interactive-3.1"
 }
