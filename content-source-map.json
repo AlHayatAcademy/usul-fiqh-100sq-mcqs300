@@ -1,2590 +1,2373 @@
 {
   "sources": {
-    "W": {
-      "book": "الورقات، امام الحرمین جوینی",
-      "section": "متن: مباحث اصول الفقه",
-      "url": "https://arabic-books.amuslim.org/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D9%82%20%D9%88%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8%20%D9%88%D8%A7%D9%84%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/Web/17342/001.htm"
+    "TALWIH": {
+      "book": "التلويح على التوضيح لمتن التنقيح",
+      "section": "متعدد ابواب (ہر سوال کے ساتھ مخصوص باب درج ہے)",
+      "url": "https://shamela.ws/book/9508"
     },
-    "G": {
-      "book": "المستصفى، امام غزالی",
-      "section": "الأصل الرابع: الاستصلاح",
-      "url": "https://www.islamweb.net/ar/library/content/33/159/"
+    "SHASHI": {
+      "book": "أصول الشاشي",
+      "section": "متعدد ابواب (ہر سوال کے ساتھ مخصوص باب درج ہے)",
+      "url": "https://shamela.ws/book/6302"
     },
-    "G1": {
-      "book": "المستصفى، امام غزالی",
-      "section": "القطب الأول: حقيقة الحكم",
-      "url": "https://www.islamicbook.ws/asol/almstsfa-001.html"
-    },
-    "H": {
-      "book": "أصول السرخسي",
-      "section": "فصل في بيان القياس والاستحسان",
-      "url": "https://www.islamicbook.ws/asol/aswl-alsrkhsi-005.html"
-    },
-    "N": {
-      "book": "نور الأنوار في شرح المنار، ملا جيون",
-      "section": "المطلق والمقيد",
-      "url": "https://archive.org/details/132-pdf"
-    },
-    "R": {
-      "book": "فراہم کردہ اصولِ فقہ کا نصاب اور متعلقہ علمی جواب",
-      "section": "موضوعاتی توضیح؛ لفظی کلاسیکی اقتباس نہیں",
+    "READ": {
+      "book": "کلاسیکی اصولِ فقہ کی عام تعلیمی تلخیص",
+      "section": "متعدد ابواب (ہر سوال کے ساتھ مخصوص باب درج ہے)",
       "url": ""
-    },
-    "QH": {
-      "book": "القرآن الكريم",
-      "section": "الأحقاف 46:15؛ لقمان 31:14؛ دونوں آیات کا لازم مفہوم",
-      "url": "https://quran.com/46/15",
-      "additionalUrl": "https://quran.com/31/14"
-    },
-    "S78": {
-      "book": "أصول الشاشي",
-      "section": "أو",
-      "url": "https://shamela.ws/book/6302/87"
-    },
-    "S75": {
-      "book": "أصول الشاشي",
-      "section": "ثم",
-      "url": "https://shamela.ws/book/6302/83"
-    },
-    "S27": {
-      "book": "أصول الشاشي",
-      "section": "المفسر",
-      "url": "https://shamela.ws/book/6302/27"
-    },
-    "S38": {
-      "book": "أصول الشاشي",
-      "section": "إشارة النص",
-      "url": "https://shamela.ws/book/6302/38"
-    },
-    "S29": {
-      "book": "أصول الشاشي",
-      "section": "المحكم والخفي",
-      "url": "https://shamela.ws/book/6302/29"
-    },
-    "S37": {
-      "book": "أصول الشاشي",
-      "section": "عبارة النص وإشارة النص",
-      "url": "https://shamela.ws/book/6302/37"
-    },
-    "S22": {
-      "book": "أصول الشاشي",
-      "section": "الكناية",
-      "url": "https://shamela.ws/book/6302/22"
-    },
-    "S161": {
-      "book": "أصول الشاشي",
-      "section": "العزيمة",
-      "url": "https://shamela.ws/book/6302/161"
-    },
-    "S2": {
-      "book": "أصول الشاشي",
-      "section": "العام والخاص",
-      "url": "https://shamela.ws/book/6302/2"
-    },
-    "S30": {
-      "book": "أصول الشاشي",
-      "section": "المشكل والمجمل والمتشابه",
-      "url": "https://shamela.ws/book/6302/30"
-    },
-    "S73": {
-      "book": "أصول الشاشي",
-      "section": "الواو والفاء",
-      "url": "https://shamela.ws/book/6302/79"
-    },
-    "S148": {
-      "book": "أصول الشاشي",
-      "section": "السبب والعلة",
-      "url": "https://shamela.ws/book/6302/148"
-    },
-    "S9": {
-      "book": "أصول الشاشي",
-      "section": "المؤول",
-      "url": "https://shamela.ws/book/6302/9"
-    },
-    "S162": {
-      "book": "أصول الشاشي",
-      "section": "الرخصة",
-      "url": "https://shamela.ws/book/6302/162"
-    },
-    "S142": {
-      "book": "أصول الشاشي",
-      "section": "الأسولة المتوجهة على القياس",
-      "url": "https://shamela.ws/book/6302/142"
-    },
-    "S44": {
-      "book": "أصول الشاشي",
-      "section": "اقتضاء النص",
-      "url": "https://shamela.ws/book/6302/44"
-    },
-    "S101": {
-      "book": "أصول الشاشي",
-      "section": "وجوه البيان",
-      "url": "https://shamela.ws/book/6302/101"
-    },
-    "S31": {
-      "book": "أصول الشاشي",
-      "section": "ترك الحقيقة",
-      "url": "https://shamela.ws/book/6302/31"
-    },
-    "S110": {
-      "book": "أصول الشاشي",
-      "section": "بيان التبديل",
-      "url": "https://shamela.ws/book/6302/110"
-    },
-    "S130": {
-      "book": "أصول الشاشي",
-      "section": "شروط القياس",
-      "url": "https://shamela.ws/book/6302/130"
-    },
-    "S40": {
-      "book": "أصول الشاشي",
-      "section": "دلالة النص",
-      "url": "https://shamela.ws/book/6302/40"
-    },
-    "S23": {
-      "book": "أصول الشاشي",
-      "section": "الظاهر والنص",
-      "url": "https://shamela.ws/book/6302/23"
-    },
-    "S146": {
-      "book": "أصول الشاشي",
-      "section": "القلب",
-      "url": "https://shamela.ws/book/6302/146"
-    },
-    "S8": {
-      "book": "أصول الشاشي",
-      "section": "المشترك",
-      "url": "https://shamela.ws/book/6302/8"
-    },
-    "S159": {
-      "book": "أصول الشاشي",
-      "section": "الفرض والواجب",
-      "url": "https://shamela.ws/book/6302/159"
-    },
-    "S1": {
-      "book": "أصول الشاشي",
-      "section": "أصول الفقه؛ الخاص والعام",
-      "url": "https://shamela.ws/book/6302/1"
-    },
-    "S49": {
-      "book": "أصول الشاشي",
-      "section": "تكرار الأسباب",
-      "url": "https://shamela.ws/book/6302/51"
-    },
-    "S112": {
-      "book": "أصول الشاشي",
-      "section": "أقسام الخبر",
-      "url": "https://shamela.ws/book/6302/112"
-    },
-    "S21": {
-      "book": "أصول الشاشي",
-      "section": "الصريح",
-      "url": "https://shamela.ws/book/6302/21"
-    },
-    "S147": {
-      "book": "أصول الشاشي",
-      "section": "فساد الوضع والنقض",
-      "url": "https://shamela.ws/book/6302/147"
-    },
-    "S84": {
-      "book": "أصول الشاشي",
-      "section": "الباء؛ راجع أيضاً ص 229–232: على وفي",
-      "url": "https://shamela.ws/book/6302/99"
-    },
-    "S83": {
-      "book": "أصول الشاشي",
-      "section": "إلى",
-      "url": "https://shamela.ws/book/6302/92"
-    },
-    "S119": {
-      "book": "أصول الشاشي",
-      "section": "الإجماع",
-      "url": "https://shamela.ws/book/6302/119"
-    },
-    "S48": {
-      "book": "أصول الشاشي",
-      "section": "الأمر والتكرار",
-      "url": "https://shamela.ws/book/6302/49"
-    },
-    "S102": {
-      "book": "أصول الشاشي",
-      "section": "بيان التغيير",
-      "url": "https://shamela.ws/book/6302/103"
-    },
-    "S134": {
-      "book": "أصول الشاشي",
-      "section": "القياس الشرعي",
-      "url": "https://shamela.ws/book/6302/134"
-    },
-    "I1": {
-      "book": "مجمع الفقه الإسلامي الدولي",
-      "section": "قرارداد 26 (1/4): اعضاء کی پیوندکاری",
-      "url": "https://iifa-aifi.org/en/32287.html"
-    },
-    "I2": {
-      "book": "مجمع الفقه الإسلامي الدولي",
-      "section": "قرارداد 16 (4/3): تولیدی علاج",
-      "url": "https://iifa-aifi.org/en/32254.html"
-    },
-    "NF": {
-      "book": "منار الأنوار، امام نسفی؛ ضمن نور الأنوار، ملا جیون",
-      "section": "تعريف الخفي وحكمه",
-      "url": "https://archive.org/details/20210210_20210210_0351",
-      "textUrl": "https://archive.org/stream/20210210_20210210_0351/%D9%86%D9%88%D8%B1%20%D8%A7%D9%84%D8%A7%D9%86%D9%88%D8%A7%D8%B1%202_djvu.txt"
     }
   },
   "definitions": [
     {
       "question": 1,
-      "term": "أصول الفقه",
-      "sourceKey": "W"
+      "term": "فقہ: امام ابو حنیفہؒ کی تعریف",
+      "sourceKey": "TALWIH"
     },
     {
       "question": 2,
-      "term": "الفقه",
-      "sourceKey": "W"
+      "term": "الفقه: تعریفِ شافعیہ",
+      "sourceKey": "TALWIH"
     },
     {
       "question": 13,
-      "term": "الحكم الشرعي",
-      "sourceKey": "G1"
+      "term": "حکمِ شرعی: مکلّف کے فعل کی صفت",
+      "sourceKey": "TALWIH"
     },
     {
       "question": 15,
       "term": "الفرض",
-      "sourceKey": "S159"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 15,
       "term": "الواجب",
-      "sourceKey": "S159"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 15,
-      "term": "المندوب",
-      "sourceKey": "W"
+      "term": "المندوب: سنت اور نفل کو شامل",
+      "sourceKey": "TALWIH"
     },
     {
-      "question": 15,
-      "term": "المباح",
-      "sourceKey": "W"
+      "question": 62,
+      "term": "النہی کی دو قسمیں",
+      "sourceKey": "SHASHI"
     },
     {
-      "question": 15,
-      "term": "المحظور",
-      "sourceKey": "W"
+      "question": 63,
+      "term": "ترک اور حرام کا باہمی تعلق",
+      "sourceKey": "TALWIH"
     },
     {
       "question": 17,
       "term": "العزيمة",
-      "sourceKey": "S161"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 17,
       "term": "الرخصة",
-      "sourceKey": "S162"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 21,
       "term": "الأصول الأربعة",
-      "sourceKey": "S1"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 24,
       "term": "المتواتر",
-      "sourceKey": "S112"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 24,
       "term": "المشهور",
-      "sourceKey": "S112"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 25,
-      "term": "الإجماع",
-      "sourceKey": "W"
+      "term": "الإجماع کی اقسام",
+      "sourceKey": "SHASHI"
     },
     {
       "question": 26,
       "term": "القياس الشرعي",
-      "sourceKey": "S134"
+      "sourceKey": "SHASHI"
     },
     {
-      "question": 26,
-      "term": "القياس",
-      "sourceKey": "W"
+      "question": 27,
+      "term": "علت جاننے کے طریقے",
+      "sourceKey": "SHASHI"
     },
     {
       "question": 34,
-      "term": "المصلحة",
-      "sourceKey": "G"
+      "term": "حکمت اور وصفِ ظاہر",
+      "sourceKey": "TALWIH"
     },
     {
       "question": 35,
-      "term": "استصحاب الحال",
-      "sourceKey": "W"
+      "term": "استصحاب: حنفی نقطۂ نظر",
+      "sourceKey": "TALWIH"
     },
     {
       "question": 43,
-      "term": "المصلحة والمقاصد",
-      "sourceKey": "G"
+      "term": "المناسب (آمدی کی تعبیر)",
+      "sourceKey": "TALWIH"
     },
     {
       "question": 57,
-      "term": "الحقيقة",
-      "sourceKey": "W"
+      "term": "الحقیقة",
+      "sourceKey": "SHASHI"
     },
     {
       "question": 57,
       "term": "المجاز",
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 57,
       "term": "الصريح",
-      "sourceKey": "S21"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 57,
       "term": "الكناية",
-      "sourceKey": "S22"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 56,
       "term": "المشترك",
-      "sourceKey": "S8"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 56,
       "term": "المؤول: عبارة تعريفية",
-      "sourceKey": "S9"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 61,
       "term": "الأمر",
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 62,
-      "term": "النهي",
-      "sourceKey": "W"
+      "term": "النہی عن التصرفات: تقریر",
+      "sourceKey": "SHASHI"
     },
     {
       "question": 54,
       "term": "الخاص",
-      "sourceKey": "S1"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 54,
       "term": "العام",
-      "sourceKey": "S2"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 58,
       "term": "الظاهر",
-      "sourceKey": "S23"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 58,
       "term": "النص",
-      "sourceKey": "S23"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 58,
       "term": "المفسر",
-      "sourceKey": "S27"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 58,
       "term": "المحكم",
-      "sourceKey": "S29"
+      "sourceKey": "SHASHI"
     },
     {
-      "question": 59,
-      "term": "الخفي",
-      "sourceKey": "NF"
+      "question": 54,
+      "term": "النکرۃ اور المعرفۃ",
+      "sourceKey": "TALWIH"
     },
     {
       "question": 59,
       "term": "المشكل: اقتباس من التعريف",
-      "sourceKey": "S30"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 59,
       "term": "المجمل",
-      "sourceKey": "S30"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 63,
       "term": "عبارة النص",
-      "sourceKey": "S37"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 63,
       "term": "إشارة النص",
-      "sourceKey": "S38"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 63,
       "term": "دلالة النص",
-      "sourceKey": "S40"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 63,
       "term": "الاقتضاء: حد المقدّر",
-      "sourceKey": "S44"
+      "sourceKey": "SHASHI"
     },
     {
-      "question": 65,
-      "term": "النص في الورقات",
-      "sourceKey": "W"
+      "question": 55,
+      "term": "حکمُ المطلق والمقید",
+      "sourceKey": "TALWIH"
     },
     {
-      "question": 69,
-      "term": "البيان",
-      "sourceKey": "W"
+      "question": 79,
+      "term": "نسخ بطور بیانِ مدت",
+      "sourceKey": "TALWIH"
     },
     {
       "question": 69,
       "term": "بيان التفسير",
-      "sourceKey": "S101"
+      "sourceKey": "SHASHI"
     },
     {
       "question": 78,
       "term": "النسخ",
-      "sourceKey": "W"
+      "sourceKey": "TALWIH"
     },
     {
       "question": 87,
-      "term": "التقليد",
-      "sourceKey": "W"
+      "term": "علمُ المقلِّد",
+      "sourceKey": "TALWIH"
     },
     {
       "question": 83,
-      "term": "الاجتهاد",
-      "sourceKey": "W"
+      "term": "فقیہ راوی (علم و اجتہاد)",
+      "sourceKey": "SHASHI"
     },
     {
       "question": 16,
       "term": "السبب: حدّه في اصطلاح الشاشي",
-      "sourceKey": "S148"
+      "sourceKey": "SHASHI"
     },
     {
-      "question": 27,
-      "term": "العلة",
-      "sourceKey": "W"
+      "question": 28,
+      "term": "علتِ مستنبط (رائے و اجتہاد)",
+      "sourceKey": "SHASHI"
     },
     {
       "question": 33,
-      "term": "الاستحسان: عبارة توضيحية",
-      "sourceKey": "H"
+      "term": "الاستحسان",
+      "sourceKey": "TALWIH"
     },
     {
       "question": 55,
-      "term": "المطلق",
-      "sourceKey": "N"
+      "term": "المطلق: خاص کی قسم",
+      "sourceKey": "TALWIH"
     }
   ],
   "mcqs": [
     {
       "id": "v3m001",
       "number": 1,
-      "topic": "موضوعِ اصول",
+      "topic": "اصل اور اصولِ فقہ",
       "studyQuestion": 1,
-      "sourceKey": "W"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m002",
       "number": 2,
-      "topic": "دلیل اور استدلال",
+      "topic": "اصولِ اربعہ",
       "studyQuestion": 1,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m003",
       "number": 3,
-      "topic": "ظن اور شک",
-      "studyQuestion": 1,
-      "sourceKey": "W"
+      "topic": "تعریفِ فقہ",
+      "studyQuestion": 2,
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m004",
       "number": 4,
-      "topic": "علمِ ضروری و نظری",
-      "studyQuestion": 1,
-      "sourceKey": "W"
+      "topic": "فقہ، شریعت اور دین",
+      "studyQuestion": 2,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m005",
       "number": 5,
-      "topic": "دلیلِ اجمالی و تفصیلی",
+      "topic": "موضوعِ علم",
       "studyQuestion": 3,
-      "sourceKey": "W"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m006",
       "number": 6,
-      "topic": "اصول، قواعد اور مقاصد",
-      "studyQuestion": 5,
-      "sourceKey": "R"
+      "topic": "حصرِ ادلہ",
+      "studyQuestion": 3,
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m007",
       "number": 7,
-      "topic": "فقہ اور اصولِ فقہ کے تاریخی ارتقا کو آپ کن اہم ادوار میں تقسیم کریں گے؟",
-      "studyQuestion": 6,
-      "sourceKey": "R"
+      "topic": "قیاس کی حیثیت",
+      "studyQuestion": 3,
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m008",
       "number": 8,
-      "topic": "الرسالہ کی نسبت",
-      "studyQuestion": 9,
-      "sourceKey": "R"
+      "topic": "اصولی، فقہی اور مقاصدی",
+      "studyQuestion": 5,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m009",
       "number": 9,
-      "topic": "طریقۂ جمع",
-      "studyQuestion": 10,
-      "sourceKey": "R"
+      "topic": "کوفہ اور مدینہ",
+      "studyQuestion": 8,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m010",
       "number": 10,
-      "topic": "منہجِ متکلمین، منہجِ فقہاء اور منہجِ جمع بین الطریقتین کی نمایاں خصوصیات کیا ہیں؟",
-      "studyQuestion": 10,
-      "sourceKey": "R"
+      "topic": "الرسالہ",
+      "studyQuestion": 9,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m011",
       "number": 11,
-      "topic": "منہجِ متکلمین، منہجِ فقہاء اور منہجِ جمع بین الطریقتین کی نمایاں خصوصیات کیا ہیں؟",
+      "topic": "منہجِ فقہاء",
       "studyQuestion": 10,
-      "sourceKey": "R"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m012",
       "number": 12,
-      "topic": "تخریج الفروع علی الاصول اور تخریج الاصول من الفروع میں کیا فرق ہے، اور یہ فرق اصولی مناہج کو سمجھنے میں کیوں اہم ہے؟",
-      "studyQuestion": 11,
-      "sourceKey": "R"
+      "topic": "کتب بمطابق منہج",
+      "studyQuestion": 10,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m013",
       "number": 13,
-      "topic": "تخریج الفروع علی الاصول اور تخریج الاصول من الفروع میں کیا فرق ہے، اور یہ فرق اصولی مناہج کو سمجھنے میں کیوں اہم ہے؟",
-      "studyQuestion": 11,
-      "sourceKey": "R"
+      "topic": "جمع بین الطریقتین",
+      "studyQuestion": 10,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m014",
       "number": 14,
-      "topic": "اصولی کتابیں",
-      "studyQuestion": 12,
-      "sourceKey": "R"
+      "topic": "تخریج",
+      "studyQuestion": 11,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m015",
       "number": 15,
-      "topic": "متن اور شرح",
+      "topic": "مصنفین التوضیح و التلویح",
       "studyQuestion": 12,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m016",
       "number": 16,
-      "topic": "رکن اور شرط",
-      "studyQuestion": 14,
-      "sourceKey": "R"
+      "topic": "حکمِ شرعی",
+      "studyQuestion": 13,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m017",
       "number": 17,
-      "topic": "باطل اور فاسد",
-      "studyQuestion": 14,
-      "sourceKey": "R"
+      "topic": "دلیل اور حکم",
+      "studyQuestion": 13,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m018",
       "number": 18,
-      "topic": "حکمِ تکلیفی اور حکمِ وضعی میں بنیادی فرق کیا ہے؟",
+      "topic": "حکمِ تکلیفی",
       "studyQuestion": 14,
-      "sourceKey": "W"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m019",
       "number": 19,
-      "topic": "حکمِ تکلیفی اور حکمِ وضعی میں بنیادی فرق کیا ہے؟",
+      "topic": "حکمِ وضعی",
       "studyQuestion": 14,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m020",
       "number": 20,
-      "topic": "مندوب",
-      "studyQuestion": 15,
-      "sourceKey": "W"
+      "topic": "صحت و فساد",
+      "studyQuestion": 14,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m021",
       "number": 21,
-      "topic": "مباح اور نیت",
+      "topic": "فرض",
       "studyQuestion": 15,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m022",
       "number": 22,
-      "topic": "حرام اور مکروہ",
+      "topic": "واجب",
       "studyQuestion": 15,
-      "sourceKey": "S159"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m023",
       "number": 23,
-      "topic": "واجبِ مضیق",
+      "topic": "مثالِ فرض و واجب",
       "studyQuestion": 15,
-      "sourceKey": "R"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m024",
       "number": 24,
-      "topic": "واجبِ موسع",
+      "topic": "مثالِ واجب بالخبر",
       "studyQuestion": 15,
-      "sourceKey": "R"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m025",
       "number": 25,
-      "topic": "واجبِ مقدر",
+      "topic": "سنت و نفل",
       "studyQuestion": 15,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m026",
       "number": 26,
-      "topic": "فرض، واجب، سنت، مندوب، مباح، مکروہ اور حرام کی درجہ بندی میں فقہی مذاہب کے ہاں کیا اہم فرق پایا جاتا ہے؟",
+      "topic": "مکروہِ تحریمی",
       "studyQuestion": 15,
-      "sourceKey": "S159"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m027",
       "number": 27,
-      "topic": "فرض، واجب، سنت، مندوب، مباح، مکروہ اور حرام کی درجہ بندی میں فقہی مذاہب کے ہاں کیا اہم فرق پایا جاتا ہے؟",
+      "topic": "جمہور کا اختلاف",
       "studyQuestion": 15,
-      "sourceKey": "S159"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m028",
       "number": 28,
-      "topic": "فرض، واجب، سنت، مندوب، مباح، مکروہ اور حرام کی درجہ بندی میں فقہی مذاہب کے ہاں کیا اہم فرق پایا جاتا ہے؟",
+      "topic": "مباح",
       "studyQuestion": 15,
-      "sourceKey": "S159"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m029",
       "number": 29,
-      "topic": "فرض، واجب، سنت، مندوب، مباح، مکروہ اور حرام کی درجہ بندی میں فقہی مذاہب کے ہاں کیا اہم فرق پایا جاتا ہے؟",
+      "topic": "حسن لنفسہ اور حسن لغیرہ",
       "studyQuestion": 15,
-      "sourceKey": "S159"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m030",
       "number": 30,
-      "topic": "فرض، واجب، سنت، مندوب، مباح، مکروہ اور حرام کی درجہ بندی میں فقہی مذاہب کے ہاں کیا اہم فرق پایا جاتا ہے؟",
+      "topic": "حسن لغیرہ کی مثالیں",
       "studyQuestion": 15,
-      "sourceKey": "S159"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m031",
       "number": 31,
-      "topic": "فرض، واجب، سنت، مندوب، مباح، مکروہ اور حرام کی درجہ بندی میں فقہی مذاہب کے ہاں کیا اہم فرق پایا جاتا ہے؟",
-      "studyQuestion": 15,
-      "sourceKey": "S159"
+      "topic": "سبب",
+      "studyQuestion": 16,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m032",
       "number": 32,
-      "topic": "شرط اور سبب",
+      "topic": "علت",
       "studyQuestion": 16,
-      "sourceKey": "S148"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m033",
       "number": 33,
-      "topic": "مانعِ حکم",
+      "topic": "شرط",
       "studyQuestion": 16,
-      "sourceKey": "S148"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m034",
       "number": 34,
-      "topic": "سبب، شرط اور مانع میں کیا فرق ہے؟ مناسب فقہی مثالوں سے واضح کریں۔",
+      "topic": "موانع کی چار اقسام",
       "studyQuestion": 16,
-      "sourceKey": "S148"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m035",
       "number": 35,
-      "topic": "رخصتِ واجبہ",
-      "studyQuestion": 17,
-      "sourceKey": "S162"
+      "topic": "خیارِ شرط",
+      "studyQuestion": 16,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m036",
       "number": 36,
-      "topic": "عزیمت اور رخصت سے کیا مراد ہے، اور ان کا اطلاق کن حالات میں ہوتا ہے؟",
-      "studyQuestion": 17,
-      "sourceKey": "S162"
+      "topic": "سبب بمعنی علت",
+      "studyQuestion": 16,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m037",
       "number": 37,
-      "topic": "کامل اہلیتِ وجوب",
-      "studyQuestion": 18,
-      "sourceKey": "R"
+      "topic": "عزیمت",
+      "studyQuestion": 17,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m038",
       "number": 38,
-      "topic": "ناقص اہلیتِ اداء",
-      "studyQuestion": 18,
-      "sourceKey": "R"
+      "topic": "رخصت",
+      "studyQuestion": 17,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m039",
       "number": 39,
-      "topic": "تصرفِ نافع",
-      "studyQuestion": 18,
-      "sourceKey": "R"
+      "topic": "رخصتِ سفر اور وجوب",
+      "studyQuestion": 17,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m040",
       "number": 40,
-      "topic": "تصرفِ دائر",
+      "topic": "اہلیت",
       "studyQuestion": 18,
-      "sourceKey": "R"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m041",
       "number": 41,
-      "topic": "اہلیتِ وجوب اور اہلیتِ اداء میں کیا فرق ہے؟",
+      "topic": "اہلیتِ وجوب",
       "studyQuestion": 18,
-      "sourceKey": "R"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m042",
       "number": 42,
-      "topic": "اہلیتِ وجوب اور اہلیتِ اداء میں کیا فرق ہے؟",
+      "topic": "قاصر اور کامل",
       "studyQuestion": 18,
-      "sourceKey": "R"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m043",
       "number": 43,
-      "topic": "اہلیتِ وجوب اور اہلیتِ اداء میں کیا فرق ہے؟",
-      "studyQuestion": 18,
-      "sourceKey": "R"
+      "topic": "عوارضِ اہلیت",
+      "studyQuestion": 19,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m044",
       "number": 44,
-      "topic": "عوارضِ سماویہ",
+      "topic": "نشہ",
       "studyQuestion": 19,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m045",
       "number": 45,
-      "topic": "عوارضِ مکتسبہ",
+      "topic": "موت، نیند، بیہوشی",
       "studyQuestion": 19,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m046",
       "number": 46,
-      "topic": "اکراہ اور رضا",
+      "topic": "اکراہ",
       "studyQuestion": 19,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m047",
       "number": 47,
-      "topic": "عوارضِ اہلیت کیا ہیں، اور وہ مکلف کے احکام کو کس طرح متاثر کرتے ہیں؟",
-      "studyQuestion": 19,
-      "sourceKey": "R"
+      "topic": "محکوم فیہ",
+      "studyQuestion": 20,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m048",
       "number": 48,
-      "topic": "حقوق کی اقسام",
+      "topic": "محکوم علیہ",
       "studyQuestion": 20,
-      "sourceKey": "R"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m049",
       "number": 49,
-      "topic": "محکوم فیہ کی قدرت",
+      "topic": "شاہق الجبل",
       "studyQuestion": 20,
-      "sourceKey": "R"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m050",
       "number": 50,
-      "topic": "محکومٌ علیہ اور محکومٌ فیہ سے کیا مراد ہے، اور تکلیف کے درست اطلاق کے لیے کن شرائط کا لحاظ ضروری ہے؟",
+      "topic": "عقل اور وحی",
       "studyQuestion": 20,
-      "sourceKey": "W"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m051",
       "number": 51,
-      "topic": "مصادرِ فقہ اور ادلۂ شرعیہ سے کیا مراد ہے، اور جمہور کے نزدیک ان کی بنیادی ترتیب کیا ہے؟",
-      "studyQuestion": 21,
-      "sourceKey": "S1"
+      "topic": "تعریفِ قرآن",
+      "studyQuestion": 22,
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m052",
       "number": 52,
-      "topic": "قرآن کی اصولی حیثیت",
+      "topic": "دور کا اعتراض",
       "studyQuestion": 22,
-      "sourceKey": "S1"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m053",
       "number": 53,
-      "topic": "ترجمہ اور قرآن",
+      "topic": "لفظِ کتاب و قرآن",
       "studyQuestion": 22,
-      "sourceKey": "R"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m054",
       "number": 54,
-      "topic": "قرآن مجید کو بنیادی اور قطعی الثبوت مصدر کیوں کہا جاتا ہے، اور قطعیتِ ثبوت و قطعیتِ دلالت میں کیا فرق ہے؟",
+      "topic": "قراءتِ شاذہ",
       "studyQuestion": 22,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m055",
       "number": 55,
-      "topic": "جبلی فعل",
+      "topic": "سنت کی حیثیت",
       "studyQuestion": 23,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m056",
       "number": 56,
-      "topic": "بیانی فعل",
+      "topic": "خبر کی تین اقسام",
       "studyQuestion": 23,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m057",
       "number": 57,
-      "topic": "خصوصیات نبوی",
+      "topic": "متواتر",
       "studyQuestion": 23,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m058",
       "number": 58,
-      "topic": "سنت کی تشریعی حیثیت کیا ہے، اور قولی، فعلی اور تقریری سنت کی فقہی دلالت میں کیا فرق ہے؟",
+      "topic": "مشہور",
       "studyQuestion": 23,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m059",
       "number": 59,
-      "topic": "سنت کی تشریعی حیثیت کیا ہے، اور قولی، فعلی اور تقریری سنت کی فقہی دلالت میں کیا فرق ہے؟",
+      "topic": "بیانِ حال",
       "studyQuestion": 23,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m060",
       "number": 60,
-      "topic": "متواتر کی شرط",
+      "topic": "خبرِ آحاد",
       "studyQuestion": 24,
-      "sourceKey": "S112"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m061",
       "number": 61,
-      "topic": "مشہور کا اثر",
+      "topic": "راویوں کی دو قسمیں",
       "studyQuestion": 24,
-      "sourceKey": "S112"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m062",
       "number": 62,
-      "topic": "خبر کے راوی",
+      "topic": "فقیہ راوی اور قیاس",
       "studyQuestion": 24,
-      "sourceKey": "S112"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m063",
       "number": 63,
-      "topic": "صحیح اور متواتر",
+      "topic": "غیر فقیہ راوی اور قیاس",
       "studyQuestion": 24,
-      "sourceKey": "S112"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m064",
       "number": 64,
-      "topic": "مرسل کی اصطلاح",
+      "topic": "علیؓ کا قول",
       "studyQuestion": 24,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m065",
       "number": 65,
-      "topic": "خبرِ واحد سے فقہی استدلال کے بارے میں اصولیین اور فقہی مذاہب کے اہم مناہج کیا ہیں؟",
+      "topic": "عرض علی الکتاب",
       "studyQuestion": 24,
-      "sourceKey": "S112"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m066",
       "number": 66,
-      "topic": "خبرِ واحد سے فقہی استدلال کے بارے میں اصولیین اور فقہی مذاہب کے اہم مناہج کیا ہیں؟",
+      "topic": "عرض علی المشہور",
       "studyQuestion": 24,
-      "sourceKey": "S112"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m067",
       "number": 67,
-      "topic": "خبرِ واحد سے فقہی استدلال کے بارے میں اصولیین اور فقہی مذاہب کے اہم مناہج کیا ہیں؟",
+      "topic": "عمومِ بلویٰ",
       "studyQuestion": 24,
-      "sourceKey": "S112"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m068",
       "number": 68,
-      "topic": "اجماع کا اہل",
-      "studyQuestion": 25,
-      "sourceKey": "W"
+      "topic": "خبرِ واحد کے چار مواضع",
+      "studyQuestion": 24,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m069",
       "number": 69,
-      "topic": "اجماع کا زمانہ",
-      "studyQuestion": 25,
-      "sourceKey": "S119"
+      "topic": "منازعات اور شہادت",
+      "studyQuestion": 24,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m070",
       "number": 70,
-      "topic": "اجماعِ صریح",
+      "topic": "حجیتِ اجماع",
       "studyQuestion": 25,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m071",
       "number": 71,
-      "topic": "سندِ اجماع",
+      "topic": "اجماع کی چار اقسام",
       "studyQuestion": 25,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m072",
       "number": 72,
-      "topic": "اجماع کی تعریف، حجیت اور امکانِ انعقاد کے بارے میں بنیادی علمی مباحث کیا ہیں؟",
+      "topic": "قوتِ اجماع بنسبتِ خبر",
       "studyQuestion": 25,
-      "sourceKey": "S119"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m073",
       "number": 73,
-      "topic": "اجماع کی تعریف، حجیت اور امکانِ انعقاد کے بارے میں بنیادی علمی مباحث کیا ہیں؟",
+      "topic": "اجماعِ سکوتی",
       "studyQuestion": 25,
-      "sourceKey": "S119"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m074",
       "number": 74,
-      "topic": "اجماع کی تعریف، حجیت اور امکانِ انعقاد کے بارے میں بنیادی علمی مباحث کیا ہیں؟",
+      "topic": "اہلِ اجماع",
       "studyQuestion": 25,
-      "sourceKey": "S119"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m075",
       "number": 75,
-      "topic": "قیاس کی تعریف، ارکان اور حجیت کیا ہے؟",
-      "studyQuestion": 26,
-      "sourceKey": "S134"
+      "topic": "اجماعِ مرکب",
+      "studyQuestion": 25,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m076",
       "number": 76,
-      "topic": "قیاس کی تعریف، ارکان اور حجیت کیا ہے؟",
-      "studyQuestion": 26,
-      "sourceKey": "S134"
+      "topic": "ارتفاعِ علت سے حکم",
+      "studyQuestion": 25,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m077",
       "number": 77,
-      "topic": "قیاس کی تعریف، ارکان اور حجیت کیا ہے؟",
-      "studyQuestion": 26,
-      "sourceKey": "S134"
+      "topic": "عدمِ قائل بالفصل",
+      "studyQuestion": 25,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m078",
       "number": 78,
-      "topic": "متعدی علت",
-      "studyQuestion": 27,
-      "sourceKey": "S134"
+      "topic": "ظاہریہ اور اجماع",
+      "studyQuestion": 25,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m079",
       "number": 79,
-      "topic": "مناسب وصف",
-      "studyQuestion": 27,
-      "sourceKey": "S134"
+      "topic": "تعریفِ قیاس",
+      "studyQuestion": 26,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m080",
       "number": 80,
-      "topic": "علت اور حکمت میں بنیادی فرق کیا ہے، اور حکم کے تعدیہ میں علت کو مرکزی حیثیت کیوں دی جاتی ہے؟",
-      "studyQuestion": 27,
-      "sourceKey": "W"
+      "topic": "علت معلوم کرنے کے طرق",
+      "studyQuestion": 26,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m081",
       "number": 81,
-      "topic": "علت اور حکمت میں بنیادی فرق کیا ہے، اور حکم کے تعدیہ میں علت کو مرکزی حیثیت کیوں دی جاتی ہے؟",
-      "studyQuestion": 27,
-      "sourceKey": "W"
+      "topic": "حجیتِ قیاس: معاذؓ",
+      "studyQuestion": 26,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m082",
       "number": 82,
-      "topic": "تنقیح اور تحقیق",
-      "studyQuestion": 28,
-      "sourceKey": "S134"
+      "topic": "خثعمیہ",
+      "studyQuestion": 26,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m083",
       "number": 83,
-      "topic": "تخریجِ مناط، تنقیحِ مناط اور تحقیقِ مناط میں کیا فرق ہے؟",
-      "studyQuestion": 28,
-      "sourceKey": "R"
+      "topic": "علت بالکتاب",
+      "studyQuestion": 27,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m084",
       "number": 84,
-      "topic": "تخریجِ مناط، تنقیحِ مناط اور تحقیقِ مناط میں کیا فرق ہے؟",
-      "studyQuestion": 28,
-      "sourceKey": "R"
+      "topic": "علت بالسنۃ",
+      "studyQuestion": 27,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m085",
       "number": 85,
-      "topic": "تخریجِ مناط، تنقیحِ مناط اور تحقیقِ مناط میں کیا فرق ہے؟",
-      "studyQuestion": 28,
-      "sourceKey": "R"
+      "topic": "علت بالاجماع",
+      "studyQuestion": 27,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m086",
       "number": 86,
-      "topic": "قیاس کی پانچ شرائط",
-      "studyQuestion": 29,
-      "sourceKey": "S130"
+      "topic": "علت بالاجتہاد",
+      "studyQuestion": 27,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m087",
       "number": 87,
-      "topic": "تعبد اور قیاس",
-      "studyQuestion": 29,
-      "sourceKey": "S130"
+      "topic": "علت و حکمت",
+      "studyQuestion": 28,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m088",
       "number": 88,
-      "topic": "ممانعت",
-      "studyQuestion": 29,
-      "sourceKey": "S142"
+      "topic": "تخریج و تنقیح و تحقیق",
+      "studyQuestion": 28,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m089",
       "number": 89,
-      "topic": "منعِ وصف",
-      "studyQuestion": 29,
-      "sourceKey": "S142"
+      "topic": "علتِ ربا",
+      "studyQuestion": 28,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m090",
       "number": 90,
-      "topic": "قلب",
+      "topic": "شروطِ قیاس",
       "studyQuestion": 29,
-      "sourceKey": "S146"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m091",
       "number": 91,
-      "topic": "فسادِ وضع",
+      "topic": "قیاس بمقابلہ نص",
       "studyQuestion": 29,
-      "sourceKey": "S147"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m092",
       "number": 92,
-      "topic": "قول بالموجب",
+      "topic": "قیاس میں تغییرِ نص",
       "studyQuestion": 29,
-      "sourceKey": "S142"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m093",
       "number": 93,
-      "topic": "قیاس کی صحت کے لیے اصل، فرع، حکم اور علت میں کن بنیادی شرائط کا پایا جانا ضروری ہے؟",
+      "topic": "غیر معقول المعنیٰ",
       "studyQuestion": 29,
-      "sourceKey": "S130"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m094",
       "number": 94,
-      "topic": "قیاس کی صحت کے لیے اصل، فرع، حکم اور علت میں کن بنیادی شرائط کا پایا جانا ضروری ہے؟",
+      "topic": "لغت میں قیاس",
       "studyQuestion": 29,
-      "sourceKey": "S130"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m095",
       "number": 95,
-      "topic": "قیاس کی صحت کے لیے اصل، فرع، حکم اور علت میں کن بنیادی شرائط کا پایا جانا ضروری ہے؟",
+      "topic": "فرع کا منصوص ہونا",
       "studyQuestion": 29,
-      "sourceKey": "S130"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m096",
       "number": 96,
-      "topic": "قطعی دلالت کی مثال",
-      "studyQuestion": 30,
-      "sourceKey": "S2"
+      "topic": "آٹھ اعتراضات",
+      "studyQuestion": 29,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m097",
       "number": 97,
-      "topic": "دلیل کے ثبوت اور دلالت میں قطعیت و ظنیت کا فرق کیا ہے، اور یہ فرق فقہی نتیجے کو کیسے متاثر کرتا ہے؟",
+      "topic": "ثبوت اور دلالت",
       "studyQuestion": 30,
-      "sourceKey": "R"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m098",
       "number": 98,
-      "topic": "دلیل کے ثبوت اور دلالت میں قطعیت و ظنیت کا فرق کیا ہے، اور یہ فرق فقہی نتیجے کو کیسے متاثر کرتا ہے؟",
-      "studyQuestion": 30,
-      "sourceKey": "R"
+      "topic": "سیاق سے مراد",
+      "studyQuestion": 31,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m099",
       "number": 99,
-      "topic": "قرآن سے حکم اخذ کرتے وقت سیاق، سنت اور عربی زبان کو نظرانداز کیوں نہیں کیا جا سکتا؟",
+      "topic": "سیاق اور سنت",
       "studyQuestion": 31,
-      "sourceKey": "R"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m100",
       "number": 100,
-      "topic": "سنت قرآن کی تبیین، تخصیص اور تقیید کس طرح کرتی ہے؟",
+      "topic": "سنت سے قرآن پر زیادتی",
       "studyQuestion": 32,
-      "sourceKey": "R"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m101",
       "number": 101,
-      "topic": "استحسان بالنص",
+      "topic": "تعریفِ استحسان",
       "studyQuestion": 33,
-      "sourceKey": "H"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m102",
       "number": 102,
-      "topic": "استحسان بالقیاس الخفی",
+      "topic": "استحسان بالنص",
       "studyQuestion": 33,
-      "sourceKey": "H"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m103",
       "number": 103,
-      "topic": "استحسان اور عرف",
+      "topic": "استحسان بالعرف",
       "studyQuestion": 33,
-      "sourceKey": "H"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m104",
       "number": 104,
-      "topic": "استحسان کیا ہے، اور اسے محض شخصی پسند کے بجائے منضبط اصولی استدلال کیوں سمجھا جاتا ہے؟",
+      "topic": "قیاس خفی",
       "studyQuestion": 33,
-      "sourceKey": "H"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m105",
       "number": 105,
-      "topic": "استحسان کیا ہے، اور اسے محض شخصی پسند کے بجائے منضبط اصولی استدلال کیوں سمجھا جاتا ہے؟",
+      "topic": "شافعیؒ کا اعتراض",
       "studyQuestion": 33,
-      "sourceKey": "H"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m106",
       "number": 106,
-      "topic": "مصلحتِ معتبرہ",
-      "studyQuestion": 34,
-      "sourceKey": "G"
+      "topic": "مالکیہ اور استحسان",
+      "studyQuestion": 33,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m107",
       "number": 107,
-      "topic": "مصلحتِ ملغاة",
+      "topic": "مصالح کی اقسام",
       "studyQuestion": 34,
-      "sourceKey": "G"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m108",
       "number": 108,
-      "topic": "مصلحت کی حقیقت",
+      "topic": "جمعِ قرآن",
       "studyQuestion": 34,
-      "sourceKey": "G"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m109",
       "number": 109,
-      "topic": "مصالحِ مرسلہ سے کیا مراد ہے، اور اسے کن شرائط کے تحت معتبر مصلحت سمجھا جاتا ہے؟",
+      "topic": "غزالیؒ کی شرائط",
       "studyQuestion": 34,
-      "sourceKey": "G"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m110",
       "number": 110,
-      "topic": "استصحابِ براءت",
-      "studyQuestion": 35,
-      "sourceKey": "W"
+      "topic": "طوفیؒ",
+      "studyQuestion": 34,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m111",
       "number": 111,
-      "topic": "استصحاب کی حد",
+      "topic": "استصحاب",
       "studyQuestion": 35,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m112",
       "number": 112,
-      "topic": "استصحاب کی اصولی حقیقت کیا ہے، اور فقہی استدلال میں اس کا عملی کردار کیا ہے؟",
+      "topic": "استصحاب دافع نہ مثبت",
       "studyQuestion": 35,
-      "sourceKey": "W"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m113",
       "number": 113,
-      "topic": "استصحاب کی اصولی حقیقت کیا ہے، اور فقہی استدلال میں اس کا عملی کردار کیا ہے؟",
+      "topic": "اصل اباحت",
       "studyQuestion": 35,
-      "sourceKey": "W"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m114",
       "number": 114,
-      "topic": "عرفِ قولی",
-      "studyQuestion": 36,
-      "sourceKey": "R"
+      "topic": "استصحاب پر مذاہب",
+      "studyQuestion": 35,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m115",
       "number": 115,
-      "topic": "عرفِ عملی",
+      "topic": "عرفِ صحیح",
       "studyQuestion": 36,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m116",
       "number": 116,
-      "topic": "عرفِ عام و خاص",
+      "topic": "شاشی میں عرف",
       "studyQuestion": 36,
-      "sourceKey": "R"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m117",
       "number": 117,
-      "topic": "عرف کب شرعی اعتبار سے معتبر بنتا ہے، اور عرفِ صحیح و عرفِ فاسد میں کیا فرق ہے؟",
+      "topic": "عرفِ قولی و عملی",
       "studyQuestion": 36,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m118",
       "number": 118,
-      "topic": "عرف کب شرعی اعتبار سے معتبر بنتا ہے، اور عرفِ صحیح و عرفِ فاسد میں کیا فرق ہے؟",
+      "topic": "شرائطِ عرف",
       "studyQuestion": 36,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m119",
       "number": 119,
-      "topic": "عرف کب شرعی اعتبار سے معتبر بنتا ہے، اور عرفِ صحیح و عرفِ فاسد میں کیا فرق ہے؟",
-      "studyQuestion": 36,
-      "sourceKey": "R"
+      "topic": "قولِ صحابی",
+      "studyQuestion": 37,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m120",
       "number": 120,
-      "topic": "قولِ صحابی اور مرفوع",
+      "topic": "قولِ صحابی کے مذاہب",
       "studyQuestion": 37,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m121",
       "number": 121,
-      "topic": "قولِ صحابی کی حجیت کے بارے میں اصولیین کے اہم مواقف کیا ہیں؟",
+      "topic": "قیاس اور قول صحابی",
       "studyQuestion": 37,
-      "sourceKey": "R"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m122",
       "number": 122,
-      "topic": "قولِ صحابی کی حجیت کے بارے میں اصولیین کے اہم مواقف کیا ہیں؟",
-      "studyQuestion": 37,
-      "sourceKey": "R"
+      "topic": "شرعِ من قبلنا",
+      "studyQuestion": 38,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m123",
       "number": 123,
-      "topic": "شرع من قبلنا کی صورت",
+      "topic": "کفالہ",
       "studyQuestion": 38,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m124",
       "number": 124,
-      "topic": "شرعِ من قبلنا کی اصولی حیثیت کیا ہے، اور اسے دلیل ماننے میں کن شرائط کا لحاظ کیا جاتا ہے؟",
+      "topic": "شرط",
       "studyQuestion": 38,
-      "sourceKey": "W"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m125",
       "number": 125,
-      "topic": "سد اور فتح ذرائع",
+      "topic": "سدِّ ذرائع",
       "studyQuestion": 39,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m126",
       "number": 126,
-      "topic": "سدِّ ذرائع کیا ہے، اور مباح وسیلے کو ممنوع قرار دینے کے لیے کن حدود کا لحاظ ضروری ہے؟",
-      "studyQuestion": 39,
-      "sourceKey": "R"
+      "topic": "عملِ اہلِ مدینہ",
+      "studyQuestion": 40,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m127",
       "number": 127,
-      "topic": "سدِّ ذرائع کیا ہے، اور مباح وسیلے کو ممنوع قرار دینے کے لیے کن حدود کا لحاظ ضروری ہے؟",
-      "studyQuestion": 39,
-      "sourceKey": "R"
+      "topic": "نقلی اور اجتہادی عمل",
+      "studyQuestion": 40,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m128",
       "number": 128,
-      "topic": "نقلی عملِ مدینہ",
-      "studyQuestion": 40,
-      "sourceKey": "R"
+      "topic": "قیاس اور استحسان",
+      "studyQuestion": 41,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m129",
       "number": 129,
-      "topic": "عملِ اہلِ مدینہ کی مالکی اصول میں کیا حیثیت ہے، اور اس کی حجیت کی بنیاد کیا ہے؟",
-      "studyQuestion": 40,
-      "sourceKey": "R"
+      "topic": "بیع العینہ",
+      "studyQuestion": 42,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m130",
       "number": 130,
-      "topic": "قیاس اور استحسان کے باہمی تعلق کو حنفی منہج کی روشنی میں کیسے سمجھا جا سکتا ہے؟",
-      "studyQuestion": 41,
-      "sourceKey": "R"
+      "topic": "اختلافِ مصادر",
+      "studyQuestion": 42,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m131",
       "number": 131,
-      "topic": "مقاصد اور ذرائع",
+      "topic": "مقاصدِ شریعت",
       "studyQuestion": 43,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m132",
       "number": 132,
-      "topic": "مقاصدِ شریعت کی جامع تعریف کیا ہے، اور اصولِ فقہ میں ان کی ضرورت کیوں پیش آتی ہے؟",
+      "topic": "مقاصد پر اہل علم",
       "studyQuestion": 43,
-      "sourceKey": "G"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m133",
       "number": 133,
-      "topic": "ضروریات کی نسبت",
-      "studyQuestion": 44,
-      "sourceKey": "G"
+      "topic": "جوینی و غزالی",
+      "studyQuestion": 43,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m134",
       "number": 134,
-      "topic": "ضروریاتِ خمسہ کون سی ہیں، اور انہیں شریعت کے بنیادی مقاصد کیوں کہا جاتا ہے؟",
+      "topic": "ضروریات خمسہ",
       "studyQuestion": 44,
-      "sourceKey": "G"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m135",
       "number": 135,
-      "topic": "مکملاتِ ضروریات",
-      "studyQuestion": 45,
-      "sourceKey": "G"
+      "topic": "حدود اور مقاصد",
+      "studyQuestion": 44,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m136",
       "number": 136,
-      "topic": "حاجی کی مثال",
-      "studyQuestion": 45,
-      "sourceKey": "R"
+      "topic": "قرافی اور عرض",
+      "studyQuestion": 44,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m137",
       "number": 137,
-      "topic": "ضروریات، حاجیات اور تحسینیات میں کیا فرق ہے؟",
-      "studyQuestion": 45,
-      "sourceKey": "G"
+      "topic": "حفظِ نسل",
+      "studyQuestion": 44,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m138",
       "number": 138,
-      "topic": "ضروریات، حاجیات اور تحسینیات میں کیا فرق ہے؟",
+      "topic": "مراتبِ مقاصد",
       "studyQuestion": 45,
-      "sourceKey": "G"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m139",
       "number": 139,
-      "topic": "ضروریات، حاجیات اور تحسینیات میں کیا فرق ہے؟",
+      "topic": "مراتب کی مثالیں",
       "studyQuestion": 45,
-      "sourceKey": "G"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m140",
       "number": 140,
-      "topic": "ضروریات، حاجیات اور تحسینیات میں کیا فرق ہے؟",
+      "topic": "ضروریات کی مثال",
       "studyQuestion": 45,
-      "sourceKey": "G"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m141",
       "number": 141,
-      "topic": "استقراء کا طریقہ",
+      "topic": "مقاصد کی پہچان",
       "studyQuestion": 46,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m142",
       "number": 142,
-      "topic": "اصولِ فقہ اور مقاصدِ شریعت کا باہمی تعلق کیا ہے، اور صرف مقاصد کا حوالہ کافی کیوں نہیں؟",
-      "studyQuestion": 47,
-      "sourceKey": "G"
+      "topic": "رحمۃ للعالمین",
+      "studyQuestion": 46,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m143",
       "number": 143,
-      "topic": "مصلحت اور مقرر حکم",
-      "studyQuestion": 48,
-      "sourceKey": "G"
+      "topic": "اصول و مقاصد",
+      "studyQuestion": 47,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m144",
       "number": 144,
-      "topic": "اعتبارِ مآلات",
-      "studyQuestion": 49,
-      "sourceKey": "R"
+      "topic": "مصلحت اور نص",
+      "studyQuestion": 48,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m145",
       "number": 145,
-      "topic": "مصالح و مفاسد کا وزن",
-      "studyQuestion": 50,
-      "sourceKey": "R"
+      "topic": "مآلاتِ افعال",
+      "studyQuestion": 49,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m146",
       "number": 146,
-      "topic": "درء مفاسد اور جلب مصالح میں تعارض ہو تو ترجیح کا اصول کیا ہوگا؟",
+      "topic": "دفعِ مفسدہ",
       "studyQuestion": 50,
-      "sourceKey": "G"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m147",
       "number": 147,
-      "topic": "درء مفاسد اور جلب مصالح میں تعارض ہو تو ترجیح کا اصول کیا ہوگا؟",
-      "studyQuestion": 50,
-      "sourceKey": "G"
+      "topic": "اخف الضررین",
+      "studyQuestion": 51,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m148",
       "number": 148,
-      "topic": "کلی اور جزئی مقصد",
+      "topic": "جان اور مال",
       "studyQuestion": 51,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m149",
       "number": 149,
-      "topic": "اگر مختلف مقاصد باہم متعارض ہوں تو ترجیح کس اصول پر قائم ہوگی؟",
-      "studyQuestion": 51,
-      "sourceKey": "G"
+      "topic": "الموافقات",
+      "studyQuestion": 52,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m150",
       "number": 150,
-      "topic": "شاطبی کی تصنیف",
+      "topic": "شریعت بنائے مصالح",
       "studyQuestion": 52,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m151",
       "number": 151,
-      "topic": "الخاص",
-      "studyQuestion": 54,
-      "sourceKey": "S1"
+      "topic": "صریح",
+      "studyQuestion": 53,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m152",
       "number": 152,
-      "topic": "عام اور مطلق",
-      "studyQuestion": 54,
-      "sourceKey": "S2"
+      "topic": "کنایہ",
+      "studyQuestion": 53,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m153",
       "number": 153,
-      "topic": "عدد اور خاص",
-      "studyQuestion": 54,
-      "sourceKey": "S2"
+      "topic": "کنایہ اور حد",
+      "studyQuestion": 53,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m154",
       "number": 154,
-      "topic": "نکرہ اور نفی",
-      "studyQuestion": 54,
-      "sourceKey": "W"
+      "topic": "ترکِ حقیقت بالعرف",
+      "studyQuestion": 53,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m155",
       "number": 155,
-      "topic": "تخصیص اور استثناء",
-      "studyQuestion": 54,
-      "sourceKey": "W"
+      "topic": "ترکِ حقیقت بالسیاق",
+      "studyQuestion": 53,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m156",
       "number": 156,
-      "topic": "شرط بطور تخصیص",
+      "topic": "خاص",
       "studyQuestion": 54,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m157",
       "number": 157,
-      "topic": "عام اور خاص میں کیا فرق ہے، اور تخصیصِ عام کے اہم طریقے کون سے ہیں؟",
+      "topic": "حکمِ خاص",
       "studyQuestion": 54,
-      "sourceKey": "S2"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m158",
       "number": 158,
-      "topic": "عام اور خاص میں کیا فرق ہے، اور تخصیصِ عام کے اہم طریقے کون سے ہیں؟",
+      "topic": "ثلاثۃ قروء",
       "studyQuestion": 54,
-      "sourceKey": "S2"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m159",
       "number": 159,
-      "topic": "عام اور خاص میں کیا فرق ہے، اور تخصیصِ عام کے اہم طریقے کون سے ہیں؟",
+      "topic": "عام",
       "studyQuestion": 54,
-      "sourceKey": "S2"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m160",
       "number": 160,
-      "topic": "عام اور خاص میں کیا فرق ہے، اور تخصیصِ عام کے اہم طریقے کون سے ہیں؟",
+      "topic": "عام کی دو قسمیں",
       "studyQuestion": 54,
-      "sourceKey": "S2"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m161",
       "number": 161,
-      "topic": "مطلق اور مقید",
-      "studyQuestion": 55,
-      "sourceKey": "R"
+      "topic": "سارق کی مثال",
+      "studyQuestion": 54,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m162",
       "number": 162,
-      "topic": "مطلق کی بدلیت",
-      "studyQuestion": 55,
-      "sourceKey": "S8"
+      "topic": "عام اور خبرِ واحد کا تعارض",
+      "studyQuestion": 54,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m163",
       "number": 163,
-      "topic": "مطلق کی تقیید",
-      "studyQuestion": 55,
-      "sourceKey": "R"
+      "topic": "عام مخصوص منہ البعض",
+      "studyQuestion": 54,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m164",
       "number": 164,
-      "topic": "مطلق اور مقید میں کیا فرق ہے، اور مطلق کو مقید پر محمول کرنے کی بنیادی شرائط کیا ہیں؟",
+      "topic": "مطلق",
       "studyQuestion": 55,
-      "sourceKey": "N"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m165",
       "number": 165,
-      "topic": "مطلق اور مقید میں کیا فرق ہے، اور مطلق کو مقید پر محمول کرنے کی بنیادی شرائط کیا ہیں؟",
+      "topic": "زانی کی حد",
       "studyQuestion": 55,
-      "sourceKey": "N"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m166",
       "number": 166,
-      "topic": "مطلق اور مقید میں کیا فرق ہے، اور مطلق کو مقید پر محمول کرنے کی بنیادی شرائط کیا ہیں؟",
+      "topic": "ظہار کا کفارہ",
       "studyQuestion": 55,
-      "sourceKey": "N"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m167",
       "number": 167,
-      "topic": "مشترک کا امتیاز",
-      "studyQuestion": 56,
-      "sourceKey": "S8"
+      "topic": "پانی اور اضافت",
+      "studyQuestion": 55,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m168",
       "number": 168,
-      "topic": "مؤول کا حکم",
-      "studyQuestion": 56,
-      "sourceKey": "S9"
+      "topic": "مطلق اور مجمل",
+      "studyQuestion": 55,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m169",
       "number": 169,
-      "topic": "مترادف اور مشترک",
+      "topic": "مشترک",
       "studyQuestion": 56,
-      "sourceKey": "R"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m170",
       "number": 170,
-      "topic": "مشترک، مترادف اور مؤول الفاظ کیا ہیں، اور فقہی استنباط میں ان سے کیا مسائل پیدا ہوتے ہیں؟",
+      "topic": "قروء کا مشترک",
       "studyQuestion": 56,
-      "sourceKey": "S8"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m171",
       "number": 171,
-      "topic": "حقیقتِ شرعیہ",
-      "studyQuestion": 57,
-      "sourceKey": "W"
+      "topic": "مؤول",
+      "studyQuestion": 56,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m172",
       "number": 172,
-      "topic": "مجاز کا قرینہ",
+      "topic": "حقیقت و مجاز",
       "studyQuestion": 57,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m173",
       "number": 173,
-      "topic": "حقیقتِ عرفیہ",
+      "topic": "حقیقت کی تین اقسام",
       "studyQuestion": 57,
-      "sourceKey": "S31"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m174",
       "number": 174,
-      "topic": "صریح",
+      "topic": "امام صاحب اور صاحبین",
       "studyQuestion": 57,
-      "sourceKey": "S21"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m175",
       "number": 175,
-      "topic": "کنایہ اور قرینہ",
+      "topic": "مجاز خلف",
       "studyQuestion": 57,
-      "sourceKey": "S22"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m176",
       "number": 176,
-      "topic": "حقیقت اور مجاز میں کیا فرق ہے، اور کسی لفظ کو مجازی معنی پر محمول کرنے کے لیے کس قرینے کی ضرورت ہوتی ہے؟",
+      "topic": "استعارہ",
       "studyQuestion": 57,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m177",
       "number": 177,
-      "topic": "حقیقت اور مجاز میں کیا فرق ہے، اور کسی لفظ کو مجازی معنی پر محمول کرنے کے لیے کس قرینے کی ضرورت ہوتی ہے؟",
-      "studyQuestion": 57,
-      "sourceKey": "W"
+      "topic": "ظاہر",
+      "studyQuestion": 58,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m178",
       "number": 178,
-      "topic": "ظاہر اور نص",
+      "topic": "نص",
       "studyQuestion": 58,
-      "sourceKey": "S23"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m179",
       "number": 179,
-      "topic": "حنفی نص کا مفہوم",
+      "topic": "نص بمقابلہ ظاہر",
       "studyQuestion": 58,
-      "sourceKey": "S23"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m180",
       "number": 180,
       "topic": "مفسر",
       "studyQuestion": 58,
-      "sourceKey": "S27"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m181",
       "number": 181,
-      "topic": "محکم",
+      "topic": "مفسر اور نص",
       "studyQuestion": 58,
-      "sourceKey": "S29"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m182",
       "number": 182,
-      "topic": "مراتبِ وضوح",
+      "topic": "محکم",
       "studyQuestion": 58,
-      "sourceKey": "S23"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m183",
       "number": 183,
-      "topic": "ظاہر، نص، مفسر اور محکم میں کیا فرق ہے، اور ان میں تاویل یا نسخ کی گنجائش کیسے مختلف ہوتی ہے؟",
-      "studyQuestion": 58,
-      "sourceKey": "S23"
+      "topic": "خفی",
+      "studyQuestion": 59,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m184",
       "number": 184,
-      "topic": "ظاہر، نص، مفسر اور محکم میں کیا فرق ہے، اور ان میں تاویل یا نسخ کی گنجائش کیسے مختلف ہوتی ہے؟",
-      "studyQuestion": 58,
-      "sourceKey": "S23"
+      "topic": "مشکل",
+      "studyQuestion": 59,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m185",
       "number": 185,
-      "topic": "خفی کا سبب",
+      "topic": "مجمل",
       "studyQuestion": 59,
-      "sourceKey": "S29"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m186",
       "number": 186,
-      "topic": "خفی کی مثال",
+      "topic": "متشابہ",
       "studyQuestion": 59,
-      "sourceKey": "S29"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m187",
       "number": 187,
-      "topic": "مجمل اور بیان",
-      "studyQuestion": 59,
-      "sourceKey": "S30"
+      "topic": "مفسر بمقابلہ مؤول",
+      "studyQuestion": 60,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m188",
       "number": 188,
-      "topic": "متقابل اقسام",
-      "studyQuestion": 59,
-      "sourceKey": "S29"
+      "topic": "تعریفِ امر",
+      "studyQuestion": 61,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m189",
       "number": 189,
-      "topic": "رفعِ اشکال",
-      "studyQuestion": 59,
-      "sourceKey": "S30"
+      "topic": "امر کی تعریف تلویح میں",
+      "studyQuestion": 61,
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m190",
       "number": 190,
-      "topic": "خفی، مشکل، مجمل اور متشابہ میں کیا فرق ہے، اور ابہام دور کرنے کا اصولی طریقہ کیا ہے؟",
-      "studyQuestion": 59,
-      "sourceKey": "S30"
+      "topic": "اطاعت کی بنیاد",
+      "studyQuestion": 61,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m191",
       "number": 191,
-      "topic": "تاویل کی دلیل",
-      "studyQuestion": 60,
-      "sourceKey": "W"
+      "topic": "امر اور تکرار",
+      "studyQuestion": 61,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m192",
       "number": 192,
-      "topic": "تاویلِ صحیح اور تاویلِ فاسد میں فرق کیسے کیا جائے گا؟ معتبر تاویل کی بنیادی شرائط کیا ہیں؟",
-      "studyQuestion": 60,
-      "sourceKey": "S31"
+      "topic": "اسمِ جنس کی نیت",
+      "studyQuestion": 61,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m193",
       "number": 193,
-      "topic": "امر اور قرینہ",
+      "topic": "عبادات کا تکرار",
       "studyQuestion": 61,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m194",
       "number": 194,
-      "topic": "امر اور تکرار",
+      "topic": "مطلق اور موقت",
       "studyQuestion": 61,
-      "sourceKey": "S48"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m195",
       "number": 195,
-      "topic": "اسباب کا تکرار",
+      "topic": "موقت: ظرف و معیار",
       "studyQuestion": 61,
-      "sourceKey": "S49"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m196",
       "number": 196,
-      "topic": "ما لا يتم الواجب",
+      "topic": "ادا و قضا",
       "studyQuestion": 61,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m197",
       "number": 197,
-      "topic": "نہی کی اصل",
-      "studyQuestion": 62,
-      "sourceKey": "W"
+      "topic": "ادائے قاصر",
+      "studyQuestion": 61,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m198",
       "number": 198,
-      "topic": "نہی عن الوصف",
+      "topic": "نہی کی دو قسمیں",
       "studyQuestion": 62,
-      "sourceKey": "R"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m199",
       "number": 199,
-      "topic": "نہی اور خارج امر",
+      "topic": "نہی اور فساد",
       "studyQuestion": 62,
-      "sourceKey": "R"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m200",
       "number": 200,
-      "topic": "نہی کس حکم پر دلالت کرتی ہے، اور کیا نہی ہمیشہ متعلقہ عمل کے فساد کو لازم کرتی ہے؟",
+      "topic": "یومِ نحر کی نذر",
       "studyQuestion": 62,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m201",
       "number": 201,
-      "topic": "عبارة النص",
+      "topic": "عبارۃ النص",
       "studyQuestion": 63,
-      "sourceKey": "S37"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m202",
       "number": 202,
-      "topic": "اشارة النص",
+      "topic": "اشارۃ النص",
       "studyQuestion": 63,
-      "sourceKey": "QH"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m203",
       "number": 203,
-      "topic": "دلالة النص",
+      "topic": "اشارت کی مثال",
       "studyQuestion": 63,
-      "sourceKey": "S40"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m204",
       "number": 204,
-      "topic": "اقتضاء کی حد",
+      "topic": "دلالۃ النص",
       "studyQuestion": 63,
-      "sourceKey": "S44"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m205",
       "number": 205,
-      "topic": "عبارۃ النص، اشارۃ النص، دلالۃ النص اور اقتضاء النص میں کیا فرق ہے؟",
+      "topic": "دلالت کا حکم",
       "studyQuestion": 63,
-      "sourceKey": "S37"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m206",
       "number": 206,
-      "topic": "عبارۃ النص، اشارۃ النص، دلالۃ النص اور اقتضاء النص میں کیا فرق ہے؟",
-      "studyQuestion": 63,
-      "sourceKey": "S37"
+      "topic": "دلالت اور قیاس",
+      "studyQuestion": 64,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m207",
       "number": 207,
-      "topic": "عبارۃ النص، اشارۃ النص، دلالۃ النص اور اقتضاء النص میں کیا فرق ہے؟",
-      "studyQuestion": 63,
-      "sourceKey": "S44"
+      "topic": "منطوق و مفہوم",
+      "studyQuestion": 65,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m208",
       "number": 208,
-      "topic": "دلالت اور قیاس",
-      "studyQuestion": 64,
-      "sourceKey": "S40"
+      "topic": "مفہومِ مخالفت",
+      "studyQuestion": 66,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m209",
       "number": 209,
-      "topic": "منطوق اور مفہوم سے کیا مراد ہے، اور مفہومِ موافقت و مفہومِ مخالفت میں بنیادی فرق کیا ہے؟",
-      "studyQuestion": 65,
-      "sourceKey": "W"
+      "topic": "قید کا اعتبار",
+      "studyQuestion": 67,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m210",
       "number": 210,
-      "topic": "منطوق اور مفہوم سے کیا مراد ہے، اور مفہومِ موافقت و مفہومِ مخالفت میں بنیادی فرق کیا ہے؟",
-      "studyQuestion": 65,
-      "sourceKey": "W"
+      "topic": "بیان کی سات قسمیں",
+      "studyQuestion": 69,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m211",
       "number": 211,
-      "topic": "مفہومِ مخالف کی حجیت میں احناف اور جمہور کے مواقف کیوں مختلف ہیں؟",
-      "studyQuestion": 66,
-      "sourceKey": "W"
+      "topic": "بیانِ تقریر",
+      "studyQuestion": 69,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m212",
       "number": 212,
-      "topic": "مفہومِ مخالف کی حجیت میں احناف اور جمہور کے مواقف کیوں مختلف ہیں؟",
-      "studyQuestion": 66,
-      "sourceKey": "W"
+      "topic": "بیانِ تفسیر",
+      "studyQuestion": 69,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m213",
       "number": 213,
-      "topic": "مفہومِ مخالف کے معتبر ہونے کے لیے کن شرائط کا پایا جانا ضروری ہے؟",
-      "studyQuestion": 67,
-      "sourceKey": "R"
+      "topic": "بیانِ تغییر: تعلیق",
+      "studyQuestion": 69,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m214",
       "number": 214,
-      "topic": "مفہومِ مخالف کے معتبر ہونے کے لیے کن شرائط کا پایا جانا ضروری ہے؟",
-      "studyQuestion": 67,
-      "sourceKey": "R"
+      "topic": "استثناء",
+      "studyQuestion": 69,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m215",
       "number": 215,
-      "topic": "حرفِ واو",
-      "studyQuestion": 68,
-      "sourceKey": "S73"
+      "topic": "بیانِ ضرورت",
+      "studyQuestion": 69,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m216",
       "number": 216,
-      "topic": "حرفِ فاء",
-      "studyQuestion": 68,
-      "sourceKey": "S73"
+      "topic": "بیانِ تبدیل = نسخ",
+      "studyQuestion": 69,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m217",
       "number": 217,
-      "topic": "حرفِ ثم",
-      "studyQuestion": 68,
-      "sourceKey": "S75"
+      "topic": "بیانِ حال",
+      "studyQuestion": 69,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m218",
       "number": 218,
-      "topic": "حرفِ أو",
-      "studyQuestion": 68,
-      "sourceKey": "S78"
+      "topic": "دلالات کی ترتیب",
+      "studyQuestion": 70,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m219",
       "number": 219,
-      "topic": "حرفِ إلى",
-      "studyQuestion": 68,
-      "sourceKey": "S83"
+      "topic": "واؤ ترتیب کے لیے نہیں",
+      "studyQuestion": 71,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m220",
       "number": 220,
-      "topic": "باء، في اور على",
-      "studyQuestion": 68,
-      "sourceKey": "S84"
+      "topic": "واؤ حالیہ",
+      "studyQuestion": 71,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m221",
       "number": 221,
-      "topic": "نصوص کی تعبیر میں سیاق و سباق اور قرینہ کیا کردار ادا کرتے ہیں؟",
-      "studyQuestion": 68,
-      "sourceKey": "R"
+      "topic": "فاء تعقیب",
+      "studyQuestion": 71,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m222",
       "number": 222,
-      "topic": "بیان کی سات اقسام",
-      "studyQuestion": 69,
-      "sourceKey": "S101"
+      "topic": "او",
+      "studyQuestion": 71,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m223",
       "number": 223,
-      "topic": "بیانِ تقریر",
-      "studyQuestion": 69,
-      "sourceKey": "S101"
+      "topic": "علی",
+      "studyQuestion": 71,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m224",
       "number": 224,
-      "topic": "بیانِ تفسیر",
-      "studyQuestion": 69,
-      "sourceKey": "S101"
+      "topic": "باء",
+      "studyQuestion": 71,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m225",
       "number": 225,
-      "topic": "بیانِ تغییر",
-      "studyQuestion": 69,
-      "sourceKey": "S102"
+      "topic": "ثم",
+      "studyQuestion": 71,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m226",
       "number": 226,
-      "topic": "بیان اور اجمال سے کیا مراد ہے، اور مجمل نص کو مبین کرنے کے اہم طریقے کون سے ہیں؟",
-      "studyQuestion": 69,
-      "sourceKey": "S101"
+      "topic": "لکن",
+      "studyQuestion": 71,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m227",
       "number": 227,
-      "topic": "بیان اور اجمال سے کیا مراد ہے، اور مجمل نص کو مبین کرنے کے اہم طریقے کون سے ہیں؟",
-      "studyQuestion": 69,
-      "sourceKey": "S101"
+      "topic": "إلی",
+      "studyQuestion": 71,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m228",
       "number": 228,
-      "topic": "احناف اور متکلمین کے ہاں دلالاتِ نص کی درجہ بندی میں بنیادی فرق کیا ہے؟",
-      "studyQuestion": 70,
-      "sourceKey": "S37"
+      "topic": "فی",
+      "studyQuestion": 71,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m229",
       "number": 229,
-      "topic": "احناف اور متکلمین کے ہاں دلالاتِ نص کی درجہ بندی میں بنیادی فرق کیا ہے؟",
-      "studyQuestion": 70,
-      "sourceKey": "S37"
+      "topic": "اقتضاء النص",
+      "studyQuestion": 73,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m230",
       "number": 230,
-      "topic": "دلالاتِ الفاظ میں اختلاف کس طرح فقہی فروع میں اختلاف پیدا کرتا ہے؟",
-      "studyQuestion": 71,
-      "sourceKey": "R"
+      "topic": "مقتضیٰ بقدرِ ضرورت",
+      "studyQuestion": 73,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m231",
       "number": 231,
-      "topic": "تعارضِ ادلہ سے کیا مراد ہے، اور کیا معتبر شرعی دلائل میں حقیقی تعارض ممکن ہے؟",
+      "topic": "تعارض کی ترتیب",
       "studyQuestion": 75,
-      "sourceKey": "S101"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m232",
       "number": 232,
-      "topic": "جمع کی مثال",
-      "studyQuestion": 76,
-      "sourceKey": "W"
+      "topic": "حقیقی تعارض",
+      "studyQuestion": 75,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m233",
       "number": 233,
-      "topic": "دو دلائل بظاہر متعارض ہوں تو جمع، تطبیق، ترجیح اور نسخ کی ترتیب کیا ہوگی؟",
+      "topic": "پانی اور کپڑے کا فرق",
       "studyQuestion": 76,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m234",
       "number": 234,
-      "topic": "دو دلائل بظاہر متعارض ہوں تو جمع، تطبیق، ترجیح اور نسخ کی ترتیب کیا ہوگی؟",
+      "topic": "تحری کی تاکید",
       "studyQuestion": 76,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m235",
       "number": 235,
-      "topic": "دو دلائل بظاہر متعارض ہوں تو جمع، تطبیق، ترجیح اور نسخ کی ترتیب کیا ہوگی؟",
-      "studyQuestion": 76,
-      "sourceKey": "W"
+      "topic": "حقیقت کو ترجیح",
+      "studyQuestion": 77,
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m236",
       "number": 236,
-      "topic": "ترجیح و تعارض",
+      "topic": "ترجیح بالتخصیص",
       "studyQuestion": 77,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m237",
       "number": 237,
-      "topic": "ترجیح کیا ہے، اور سند، متن اور مضمون کے اعتبار سے اس کے اہم معیارات کیا ہیں؟",
+      "topic": "ترجیح کے معیارات",
       "studyQuestion": 77,
-      "sourceKey": "W"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m238",
       "number": 238,
-      "topic": "ترجیح کیا ہے، اور سند، متن اور مضمون کے اعتبار سے اس کے اہم معیارات کیا ہیں؟",
-      "studyQuestion": 77,
-      "sourceKey": "W"
+      "topic": "تعریفِ نسخ",
+      "studyQuestion": 78,
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m239",
       "number": 239,
-      "topic": "بیانِ تبدیل",
+      "topic": "نسخ لغوی",
       "studyQuestion": 78,
-      "sourceKey": "S110"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m240",
       "number": 240,
-      "topic": "نسخ کا حد",
+      "topic": "بیانِ مدت",
       "studyQuestion": 78,
-      "sourceKey": "W"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m241",
       "number": 241,
-      "topic": "نسخ کی تعریف کیا ہے، اور اس کے تحقق کے لیے کن بنیادی شرائط کا ہونا ضروری ہے؟",
+      "topic": "جوازِ نسخ",
       "studyQuestion": 78,
-      "sourceKey": "W"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m242",
       "number": 242,
-      "topic": "نسخ کی تعریف کیا ہے، اور اس کے تحقق کے لیے کن بنیادی شرائط کا ہونا ضروری ہے؟",
+      "topic": "نسخ کی اقسام",
       "studyQuestion": 78,
-      "sourceKey": "W"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m243",
       "number": 243,
-      "topic": "تخصیصِ متصل",
-      "studyQuestion": 79,
-      "sourceKey": "W"
+      "topic": "محلِ نسخ",
+      "studyQuestion": 78,
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m244",
       "number": 244,
-      "topic": "نسخ اور تخصیص میں بنیادی فرق کیا ہے؟",
+      "topic": "نسخ و تخصیص",
       "studyQuestion": 79,
-      "sourceKey": "W"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m245",
       "number": 245,
-      "topic": "نسخ اور تخصیص میں بنیادی فرق کیا ہے؟",
+      "topic": "نسخ کا بدل",
       "studyQuestion": 79,
-      "sourceKey": "W"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m246",
       "number": 246,
-      "topic": "نسخ اور تخصیص میں بنیادی فرق کیا ہے؟",
-      "studyQuestion": 79,
-      "sourceKey": "S102"
+      "topic": "ناسخ کی پہچان",
+      "studyQuestion": 80,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m247",
       "number": 247,
-      "topic": "ناسخ و منسوخ کی معرفت فقہی استنباط میں کیوں اہم ہے، اور زمانی ترتیب کا کیا کردار ہے؟",
+      "topic": "آحاد سے نسخ",
       "studyQuestion": 80,
-      "sourceKey": "W"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m248",
       "number": 248,
-      "topic": "ناسخ و منسوخ کی معرفت فقہی استنباط میں کیوں اہم ہے، اور زمانی ترتیب کا کیا کردار ہے؟",
-      "studyQuestion": 80,
-      "sourceKey": "W"
+      "topic": "جمع پہلے یا نسخ",
+      "studyQuestion": 81,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m249",
       "number": 249,
-      "topic": "جمع و تطبیق کو ترجیح یا نسخ پر کیوں مقدم رکھا جاتا ہے؟",
+      "topic": "جمع کی مثال",
       "studyQuestion": 81,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m250",
       "number": 250,
-      "topic": "اگر جمع اور ترجیح دونوں ممکن نہ ہوں تو مجتہد کے لیے توقف یا دیگر اصولی راستوں کی کیا گنجائش رہتی ہے؟",
+      "topic": "تساقط",
       "studyQuestion": 82,
-      "sourceKey": "W"
+      "sourceKey": "SHASHI"
     },
     {
       "id": "v3m251",
       "number": 251,
-      "topic": "اجتہاد اور قطعیت",
+      "topic": "تعریفِ اجتہاد",
       "studyQuestion": 83,
-      "sourceKey": "W"
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m252",
       "number": 252,
-      "topic": "تصویب اور تخطئہ",
+      "topic": "محلِ اجتہاد",
       "studyQuestion": 83,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m253",
       "number": 253,
-      "topic": "اجتہاد کی تعریف، مشروعیت اور دائرۂ کار کیا ہے؟",
+      "topic": "نص اور اجتہاد",
       "studyQuestion": 83,
-      "sourceKey": "W"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m254",
       "number": 254,
-      "topic": "اجتہاد کی تعریف، مشروعیت اور دائرۂ کار کیا ہے؟",
-      "studyQuestion": 83,
-      "sourceKey": "W"
+      "topic": "شرائطِ اجتہاد",
+      "studyQuestion": 84,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m255",
       "number": 255,
-      "topic": "اجتہاد کی تعریف، مشروعیت اور دائرۂ کار کیا ہے؟",
-      "studyQuestion": 83,
-      "sourceKey": "W"
+      "topic": "شرط: نیت و دیانت",
+      "studyQuestion": 84,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m256",
       "number": 256,
-      "topic": "مجتہد کی معرفت",
-      "studyQuestion": 84,
-      "sourceKey": "W"
+      "topic": "مجتہد مصیب یا مخطئ",
+      "studyQuestion": 85,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m257",
       "number": 257,
-      "topic": "مجتہد کے لیے کن علمی، لسانی اور اخلاقی شرائط کا پایا جانا ضروری ہے؟",
-      "studyQuestion": 84,
-      "sourceKey": "W"
+      "topic": "التصویب",
+      "studyQuestion": 85,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m258",
       "number": 258,
-      "topic": "اجتہادِ ترجیح",
-      "studyQuestion": 85,
-      "sourceKey": "R"
+      "topic": "طبقاتِ مجتہدین",
+      "studyQuestion": 86,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m259",
       "number": 259,
-      "topic": "اجتہادِ مطلق، اجتہاد فی المذہب، اجتہادِ ترجیح اور اجتہادِ جزئی میں کیا فرق ہے؟",
-      "studyQuestion": 85,
-      "sourceKey": "R"
+      "topic": "اصحابِ تخریج",
+      "studyQuestion": 86,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m260",
       "number": 260,
-      "topic": "اجتہادِ مطلق، اجتہاد فی المذہب، اجتہادِ ترجیح اور اجتہادِ جزئی میں کیا فرق ہے؟",
-      "studyQuestion": 85,
-      "sourceKey": "R"
+      "topic": "تقلید",
+      "studyQuestion": 87,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m261",
       "number": 261,
-      "topic": "اجتہادِ مطلق، اجتہاد فی المذہب، اجتہادِ ترجیح اور اجتہادِ جزئی میں کیا فرق ہے؟",
-      "studyQuestion": 85,
-      "sourceKey": "R"
+      "topic": "تقلید کی دلیل",
+      "studyQuestion": 87,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m262",
       "number": 262,
-      "topic": "تعریفِ تقلید",
+      "topic": "تقلید کی اقسام",
       "studyQuestion": 87,
-      "sourceKey": "W"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m263",
       "number": 263,
-      "topic": "تقلید، اتباع اور اجتہاد میں کیا فرق ہے، اور عام مسلمان کے لیے تقلید کی کیا حیثیت ہے؟",
-      "studyQuestion": 87,
-      "sourceKey": "W"
+      "topic": "اتباع و تقلید",
+      "studyQuestion": 88,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m264",
       "number": 264,
-      "topic": "تقلید، اتباع اور اجتہاد میں کیا فرق ہے، اور عام مسلمان کے لیے تقلید کی کیا حیثیت ہے؟",
-      "studyQuestion": 87,
-      "sourceKey": "W"
+      "topic": "تقلیدِ شخصی و غیر شخصی",
+      "studyQuestion": 88,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m265",
       "number": 265,
-      "topic": "تقلید، اتباع اور اجتہاد میں کیا فرق ہے، اور عام مسلمان کے لیے تقلید کی کیا حیثیت ہے؟",
-      "studyQuestion": 87,
-      "sourceKey": "W"
+      "topic": "اجتہاد کا دائرہ",
+      "studyQuestion": 88,
+      "sourceKey": "TALWIH"
     },
     {
       "id": "v3m266",
       "number": 266,
-      "topic": "اجتماعی اجتہاد",
-      "studyQuestion": 88,
-      "sourceKey": "R"
+      "topic": "تلفیق",
+      "studyQuestion": 89,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m267",
       "number": 267,
-      "topic": "اجتماعی اجتہاد کی ضرورت کیوں بڑھی ہے، اور مختلف تخصصات اس میں کیا کردار ادا کرتے ہیں؟",
-      "studyQuestion": 88,
-      "sourceKey": "R"
+      "topic": "فتویٰ اور قضاء",
+      "studyQuestion": 89,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m268",
       "number": 268,
-      "topic": "فتویٰ اور حکمِ قضاء",
-      "studyQuestion": 89,
-      "sourceKey": "R"
+      "topic": "اختلاف کے اسباب",
+      "studyQuestion": 90,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m269",
       "number": 269,
-      "topic": "فتویٰ اور قضاء میں کیا فرق ہے؟",
-      "studyQuestion": 89,
-      "sourceKey": "R"
+      "topic": "عدم بلوغِ حدیث",
+      "studyQuestion": 90,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m270",
       "number": 270,
-      "topic": "فتویٰ اور قضاء میں کیا فرق ہے؟",
-      "studyQuestion": 89,
-      "sourceKey": "R"
+      "topic": "ائمہ کی توقیر",
+      "studyQuestion": 90,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m271",
       "number": 271,
-      "topic": "تغیرِ فتویٰ",
-      "studyQuestion": 90,
-      "sourceKey": "R"
+      "topic": "استفتاء کی ادب",
+      "studyQuestion": 91,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m272",
       "number": 272,
-      "topic": "فتویٰ زمان، مکان، عرف اور حالات کی تبدیلی سے کس حد تک بدل سکتا ہے؟",
-      "studyQuestion": 90,
-      "sourceKey": "R"
+      "topic": "إعلام الموقعین",
+      "studyQuestion": 91,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m273",
       "number": 273,
-      "topic": "فتویٰ زمان، مکان، عرف اور حالات کی تبدیلی سے کس حد تک بدل سکتا ہے؟",
-      "studyQuestion": 90,
-      "sourceKey": "R"
+      "topic": "اجتہاد کے ایک سے زائد دور",
+      "studyQuestion": 92,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m274",
       "number": 274,
-      "topic": "سببِ اختلاف",
-      "studyQuestion": 91,
-      "sourceKey": "R"
+      "topic": "سدِّ بابِ اجتہاد",
+      "studyQuestion": 92,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m275",
       "number": 275,
-      "topic": "اختلافِ معتبر",
+      "topic": "اجتہاد جزئی",
       "studyQuestion": 92,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m276",
       "number": 276,
-      "topic": "استحسان کا اختلاف",
-      "studyQuestion": 94,
-      "sourceKey": "H"
+      "topic": "امام ابوحنیفہؒ",
+      "studyQuestion": 93,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m277",
       "number": 277,
-      "topic": "مالکی اصولی منہج کی نمایاں خصوصیات کیا ہیں؟",
-      "studyQuestion": 95,
-      "sourceKey": "R"
+      "topic": "امام مالکؒ",
+      "studyQuestion": 94,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m278",
       "number": 278,
-      "topic": "شافعی منہج",
-      "studyQuestion": 96,
-      "sourceKey": "W"
+      "topic": "امام شافعیؒ",
+      "studyQuestion": 95,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m279",
       "number": 279,
-      "topic": "شافعی اصولی منہج کی نمایاں خصوصیات کیا ہیں؟",
+      "topic": "امام احمدؒ",
       "studyQuestion": 96,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m280",
       "number": 280,
-      "topic": "مرسل اور اختلافِ منہج",
-      "studyQuestion": 98,
-      "sourceKey": "R"
+      "topic": "حنفی کتب",
+      "studyQuestion": 97,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m281",
       "number": 281,
-      "topic": "محلِ نزاع",
-      "studyQuestion": 100,
-      "sourceKey": "R"
+      "topic": "شافعی و مالکی و حنبلی کتب",
+      "studyQuestion": 97,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m282",
       "number": 282,
-      "topic": "فقہ و اصول کی تصانیف",
-      "studyQuestion": 102,
-      "sourceKey": "R"
+      "topic": "بدایۃ المجتہد",
+      "studyQuestion": 98,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m283",
       "number": 283,
-      "topic": "المبسوط، بدائع الصنائع، بدایۃ المجتہد، المغنی اور المجموع جیسی کتب کا تقابلی فقہی مطالعے میں کیا مقام ہے؟",
-      "studyQuestion": 102,
-      "sourceKey": "R"
+      "topic": "اصولِ فقہ کی کتب",
+      "studyQuestion": 99,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m284",
       "number": 284,
-      "topic": "المبسوط، بدائع الصنائع، بدایۃ المجتہد، المغنی اور المجموع جیسی کتب کا تقابلی فقہی مطالعے میں کیا مقام ہے؟",
-      "studyQuestion": 102,
-      "sourceKey": "R"
+      "topic": "اہم اصولی متون",
+      "studyQuestion": 100,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m285",
       "number": 285,
-      "topic": "المبسوط، بدائع الصنائع، بدایۃ المجتہد، المغنی اور المجموع جیسی کتب کا تقابلی فقہی مطالعے میں کیا مقام ہے؟",
-      "studyQuestion": 102,
-      "sourceKey": "R"
+      "topic": "شاشی اور اس کی شروح",
+      "studyQuestion": 101,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m286",
       "number": 286,
-      "topic": "ضابطہ اور قاعدہ",
+      "topic": "قاعدہ فقہیہ بمقابلہ اصولیہ",
       "studyQuestion": 103,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m287",
       "number": 287,
-      "topic": "قواعدِ خمسہ",
-      "studyQuestion": 104,
-      "sourceKey": "R"
+      "topic": "پانچ بڑے قواعد",
+      "studyQuestion": 103,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m288",
       "number": 288,
-      "topic": "قاعدہ «الأمور بمقاصدها» کا مفہوم اور اہم فقہی تطبیقات کیا ہیں؟",
-      "studyQuestion": 105,
-      "sourceKey": "R"
+      "topic": "الأمور بمقاصدها",
+      "studyQuestion": 104,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m289",
       "number": 289,
-      "topic": "قاعدہ «اليقين لا يزول بالشك» فقہی استدلال میں کیسے کام کرتا ہے؟",
-      "studyQuestion": 106,
-      "sourceKey": "R"
+      "topic": "الیقین لا یزول",
+      "studyQuestion": 104,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m290",
       "number": 290,
-      "topic": "قاعدہ «اليقين لا يزول بالشك» فقہی استدلال میں کیسے کام کرتا ہے؟",
-      "studyQuestion": 106,
-      "sourceKey": "R"
+      "topic": "المشقة تجلب التيسير",
+      "studyQuestion": 105,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m291",
       "number": 291,
-      "topic": "قاعدہ «المشقة تجلب التيسير» کی حدود کیا ہیں، اور ہر مشقت رخصت کا سبب کیوں نہیں بنتی؟",
-      "studyQuestion": 107,
-      "sourceKey": "R"
+      "topic": "الضرر یزال",
+      "studyQuestion": 106,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m292",
       "number": 292,
-      "topic": "قاعدہ «المشقة تجلب التيسير» کی حدود کیا ہیں، اور ہر مشقت رخصت کا سبب کیوں نہیں بنتی؟",
+      "topic": "العادة محكمة",
       "studyQuestion": 107,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m293",
       "number": 293,
-      "topic": "قاعدہ «الضرر يزال» کی اہمیت کیا ہے، اور ضرر دور کرنے کی حدود کیا ہیں؟",
+      "topic": "الأشباه والنظائر",
       "studyQuestion": 108,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m294",
       "number": 294,
-      "topic": "تخریج اور نسبت",
-      "studyQuestion": 110,
-      "sourceKey": "R"
+      "topic": "مجلۃ الأحکام",
+      "studyQuestion": 109,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m295",
       "number": 295,
-      "topic": "معاصر اجتہاد سے کیا مراد ہے، اور نئے مسائل میں نص، مقاصد اور واقعہ شناسی کو کس طرح جمع کیا جاتا ہے؟",
+      "topic": "نوازل",
       "studyQuestion": 111,
-      "sourceKey": "R"
+      "sourceKey": "READ"
     },
     {
       "id": "v3m296",
       "number": 296,
-      "topic": "کسی جدید مالی مصنوع کی فقہی تکییف کرتے وقت اس کے نام کے بجائے حقیقی ساخت، ملکیت، ضمان اور خطرے کو کیوں دیکھا جاتا ہے؟",
-      "studyQuestion": 114,
-      "sourceKey": "R"
+      "topic": "اجتہاد جماعی",
+      "studyQuestion": 113,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m297",
       "number": 297,
-      "topic": "اعضاء کی پیوندکاری، مصنوعی بارآوری یا دوسرے طبی مسائل میں اصولی فیصلہ سازی کے بنیادی مراحل کیا ہوں گے؟",
-      "studyQuestion": 115,
-      "sourceKey": "I1"
+      "topic": "تکییف فقہی",
+      "studyQuestion": 114,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m298",
       "number": 298,
-      "topic": "اعضاء کی پیوندکاری، مصنوعی بارآوری یا دوسرے طبی مسائل میں اصولی فیصلہ سازی کے بنیادی مراحل کیا ہوں گے؟",
-      "studyQuestion": 115,
-      "sourceKey": "I2"
+      "topic": "فقہ الواقع",
+      "studyQuestion": 116,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m299",
       "number": 299,
-      "topic": "مصنوعی ذہانت، ڈیجیٹل عقود اور خودکار فیصلوں کے فقہی جائزے میں کن اصولی سوالات کو مقدم رکھا جائے گا؟",
-      "studyQuestion": 116,
-      "sourceKey": "R"
+      "topic": "فقہ الأقلیات",
+      "studyQuestion": 118,
+      "sourceKey": "READ"
     },
     {
       "id": "v3m300",
       "number": 300,
-      "topic": "مصنوعی ذہانت، ڈیجیٹل عقود اور خودکار فیصلوں کے فقہی جائزے میں کن اصولی سوالات کو مقدم رکھا جائے گا؟",
-      "studyQuestion": 116,
-      "sourceKey": "R"
+      "topic": "اجتہاد معاصر کے ضوابط",
+      "studyQuestion": 120,
+      "sourceKey": "READ"
     }
   ]
 }

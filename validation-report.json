@@ -1,12 +1,9 @@
 {
-  "contentVersion": "3.0",
+  "contentVersion": "4.0",
   "studyQuestions": 120,
   "originalAnswerArraysPreserved": 120,
   "arabicDefinitionsAndPassages": 50,
   "mcqs": 300,
-  "newMCQs": 153,
-  "reviewedPreviousMCQs": 147,
-  "previousQuestionsWithRewrittenDistractors": 82,
   "sets": 6,
   "perSet": 50,
   "questionSequence": "thematic-progressive; no question shuffling by default",
@@ -44,5 +41,10 @@
   "visualBrowserQA": "not performed",
   "independentSpecialistScholarlyReview": "not performed",
   "date": "2026-10-09",
-  "interfaceRevision": "colourful-interactive-3.1"
+  "interfaceRevision": "colourful-interactive-3.1",
+  "definitionSources": {
+    "أصول الشاشي (Shamela 6302)": 35,
+    "التلويح على التوضيح (Shamela 9508)": 15
+  },
+  "mcqDesign": "every question has a self-teaching stem, four plausible options of similar length, randomized balanced key positions, and an explanation that opens with the correct answer"
 }
